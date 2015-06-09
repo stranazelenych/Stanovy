@@ -537,24 +537,32 @@ o tom písemně předsedu KO. KO se pak považuje za ustavenou včetně zápisu 
 7. Výkonným orgánem KO je Rada KO, používá se zkratka RKO a 
 
   a) je tvořena předsedou KO a místopředsedou KO a zvolenými členy, 
-b) metodicky řídí a sjednocuje činnost ZO,
-c) navrhuje rozpočet KO a rozpočtové změny,
-d) navrhuje plán činnosti KO.
+
+   b) metodicky řídí a sjednocuje činnost ZO,
+
+   c) navrhuje rozpočet KO a rozpočtové změny,
+
+   d) navrhuje plán činnosti KO.
 
 8. Předseda KO
-a) reprezentuje KO,
-b) svolává schůze KO a RKO a předsedá jim,
-c) předkládá krajské konferenci výroční zprávu,
-d) zasílá schválenou zprávu o hospodaření HK a příslušným ZO.
+
+   a) reprezentuje KO,
+
+   b) svolává schůze KO a RKO a předsedá jim,
+
+   c) předkládá krajské konferenci výroční zprávu,
+
+   d) zasílá schválenou zprávu o hospodaření HK a příslušným ZO.
 
 9. Pokladník
-a) zodpovídá za svěřený majetek a řádné vedení jeho evidence,
-b) podává krajské konferenci nejméně 1x za roku zprávu o hospodaření.
+
+   a) zodpovídá za svěřený majetek a řádné vedení jeho evidence,
+
+   b) podává krajské konferenci nejméně 1x za roku zprávu o hospodaření.
 
 10. Krajská konference se koná nejméně jedenkrát za šest měsíců, RKO a revizní komise se schází nejméně jedenkrát za dva měsíce.
 
-ČLÁNEK 16
-Sjezd
+##ČLÁNEK 16 Sjezd
 
 1. Je nejvyšším orgánem SZ.
 
@@ -565,16 +573,23 @@ Sjezd
 4. Nesvolá-li Předsednictvo řádný či mimořádný sjezd ve stanoveném termínu nebo klesne-li počet členů Předsednictva SZ či ÚRK o více než 2/5, svolá sjezd osoba pověřená RR.
 
 5. Sjezd je tvořen:
-a) delegáty s hlasem rozhodujícím, tedy:
-i) delegáty zvolenými ZO podle stanoveného klíče, 
-ii) členy předsednictva SZ,
-iii) poslanci a senátory Parlamentu ĆR a poslanci EP zvolenými za SZ, jsou-li členy SZ;
-b) účastníky s hlasem poradním, pokud nejsou účastníky s hlasem rozhodujícím, tedy:
-i) členy RR,
-ii) členy ÚRK,
-iii) vedoucími odborných sekcí,
-iv) hlavním manažerem SZ;
-c) hosty pozvanými PSZ. 
+
+   a) delegáty s hlasem rozhodujícím, tedy:
+
+      i) delegáty zvolenými ZO podle stanoveného klíče, 
+
+      ii) členy předsednictva SZ,
+
+      iii) poslanci a senátory Parlamentu ĆR a poslanci EP zvolenými za SZ, jsou-li členy SZ;
+
+   b) účastníky s hlasem poradním, pokud nejsou účastníky s hlasem rozhodujícím, tedy:
+   
+      i) členy RR,
+      ii) členy ÚRK,
+      iii) vedoucími odborných sekcí,
+      iv) hlavním manažerem SZ;
+
+   c) hosty pozvanými PSZ. 
 
 6. Volba delegátů na sjezd základními organizacemi se uskuteční podle klíče stanoveného PSZ. Způsob stanovení klíče sjezdu a další podrobnosti volby delegátů sjezdu stanoví Jednací řád SZ.
 
@@ -589,81 +604,115 @@ c) hosty pozvanými PSZ.
 11. Sjezd řídí jím zvolené pracovní předsednictvo.
 
 12. Sjezd má zejména v pravomoci: 
-a) schvalovat stanovy SZ, a to 2/3 většinou hlasů,
-b) schvalovat program, 
-c) schvalovat ostatní vnitřní předpisy strany,
-d) určovat základní politickou koncepci strany pro nastávající období,
-e) schvalovat zprávy o činnosti předsednictva SZ, republikové rady, parlamentních klubů a ústřední revizní komise,
-f) volit a odvolávat předsedu, místopředsedy strany a další členy předsednictva SZ,
-g) určovat počet členů ÚRK, volit předsedu a další členy ústřední revizní komise strany,
-h) volit členy republikové rady, kteří jsou voleni sjezdem.
-i) rozhodovat o sloučení strany s jinými politickými stranami či hnutími, 
-j) rozhodovat o zrušení strany.
+
+   a) schvalovat stanovy SZ, a to 2/3 většinou hlasů,
+
+   b) schvalovat program, 
+
+   c) schvalovat ostatní vnitřní předpisy strany,
+
+   d) určovat základní politickou koncepci strany pro nastávající období,
+
+   e) schvalovat zprávy o činnosti předsednictva SZ, republikové rady, parlamentních klubů a ústřední revizní komise,
+
+   f) volit a odvolávat předsedu, místopředsedy strany a další členy předsednictva SZ,
+
+   g) určovat počet členů ÚRK, volit předsedu a další členy ústřední revizní komise strany,
+
+   h) volit členy republikové rady, kteří jsou voleni sjezdem.
+
+   i) rozhodovat o sloučení strany s jinými politickými stranami či hnutími, 
+
+   j) rozhodovat o zrušení strany.
 
 13. Výkonem svých pravomocí s výjimkou pravomocí pod písmenem a), e), f), g), h), i), j) může sjezd pověřit RR.
 
-ČLÁNEK 17
-Republiková rada
+##ČLÁNEK 17 Republiková rada
 
 1. Používá se zkratka „RR“.
 
 2. Republiková rada SZ je tvořena
-a) členy Předsednictva SZ,
-b) předsedy KO,
-c) zástupci KO volenými KK v počtu jeden zástupce na každých započatých 100 členů KO vždy k 31. 12. předchozího roku, resp. 30. 6. běžného roku, evidovaných v HK,
-d) poslanci a senátory Parlamentu ČR, zvolenými za SZ, kteří jsou členy SZ,
-e) poslanci Evropského parlamentu zvolenými za SZ, kteří jsou členy SZ.
+
+   a) členy Předsednictva SZ,
+   
+   b) předsedy KO,
+
+   c) zástupci KO volenými KK v počtu jeden zástupce na každých započatých 100 členů KO vždy k 31. 12. předchozího roku, resp. 30. 6. běžného roku, evidovaných v HK,
+
+   d) poslanci a senátory Parlamentu ČR, zvolenými za SZ, kteří jsou členy SZ,
+
+   e) poslanci Evropského parlamentu zvolenými za SZ, kteří jsou členy SZ.
 
 V případě snížení počtu zástupců konkrétní KO v RR z důvodu poklesu členské základny, je KO povinna bezodkladně odvolat příslušný počet svých zástupců.
 
 3. RR je nejvyšším výkonným orgánem SZ v období mezi sjezdy a
-a) odpovídá sjezdu za plnění sjezdem schválených usnesení, cílů a hlavních úkolů SZ a politického programu SZ,  
-b) pověřuje předsednictvo realizací usnesení RR, 
-c) schvaluje s pověřením sjezdu vnitřní předpisy strany:  
-jednací řád, 
-hospodářský řád,
-rozhodčí a smírčí řád,
-revizní řád,
-etický kodex zastupitele či člena parlamentu;
-d) dále schvaluje:
-i. rozpočet strany pro následující rok,
-ii. celostátní volební programy,
-iii. uzavření republikových předvolebních či povolebních koalic,
-iv. společnou strategii voleb do zastupitelstev krajů 
-v. v závažných a odůvodněných případech úpravy kandidátek do krajských a komunálních voleb, 
-vi. strategii voleb a kandidáty do Poslanecké sněmovny Parlamentu ČR,
-vii. strategii voleb a kandidáty do Senátu Parlamentu ČR,
-viii. strategii voleb a kandidáty do zastupitelských orgánů ČR v Evropské unii,
-ix. rozpočtové změny,
-x. plán činnosti strany na kalendářní rok,
-xi. nominace členů vlády,
-xii. kandidáta SZ na post prezidenta České republiky;
-e) může k jakékoliv politické otázce na republikové úrovni vyjádřit doporučení,
-f) vyjadřuje se k nominacím předsedy a místopředsedů Poslanecké sněmovny a Senátu,
-g) podává na návrh ÚRK závazný výklad stanov,
-h) volí členy Finanční kontrolní komise.
+
+   a) odpovídá sjezdu za plnění sjezdem schválených usnesení, cílů a hlavních úkolů SZ a politického programu SZ,  
+
+   b) pověřuje předsednictvo realizací usnesení RR, 
+
+   c) schvaluje s pověřením sjezdu vnitřní předpisy strany:  
+
+      jednací řád, 
+      hospodářský řád,
+      rozhodčí a smírčí řád,
+      revizní řád,
+      etický kodex zastupitele či člena parlamentu;
+
+   d) dále schvaluje:
+
+      i. rozpočet strany pro následující rok,
+      ii. celostátní volební programy,
+      iii. uzavření republikových předvolebních či povolebních koalic,
+      iv. společnou strategii voleb do zastupitelstev krajů 
+      v. v závažných a odůvodněných případech úpravy kandidátek do krajských a komunálních voleb, 
+      vi. strategii voleb a kandidáty do Poslanecké sněmovny Parlamentu ČR,
+      vii. strategii voleb a kandidáty do Senátu Parlamentu ČR,
+      viii. strategii voleb a kandidáty do zastupitelských orgánů ČR v Evropské unii,
+      ix. rozpočtové změny,
+      x. plán činnosti strany na kalendářní rok,
+      xi. nominace členů vlády,
+      xii. kandidáta SZ na post prezidenta České republiky;
+
+   e) může k jakékoliv politické otázce na republikové úrovni vyjádřit doporučení,
+
+   f) vyjadřuje se k nominacím předsedy a místopředsedů Poslanecké sněmovny a Senátu,
+   
+   g) podává na návrh ÚRK závazný výklad stanov,
+
+   h) volí členy Finanční kontrolní komise.
 
 4. RR může výkonem svých pravomocí pověřit předsednictvo, s výjimkou schvalování vnitřních předpisů strany, schvalování strategie voleb a kandidátů a pravomocí pod písmenem d) bod i), v), ix)
 
 5. RR se schází nejméně jedenkrát za šest měsíců.
 
-ČLÁNEK 18
-Předsednictvo
+##ČLÁNEK 18 Předsednictvo
 
 1. Používá se zkratka „PSZ“.
 
 2. PSZ 
-a) je výkonným orgánem SZ v tom období mezi sjezdy, kdy nezasedá RR,
-b) je voleno sjezdem, 
-c) má sedm členů, tvoří je předseda, tři místopředsedové a tři další členové, jejichž oblast působnosti PSZ stanoví do dvou měsíců od zvolení, 
-d) funkci prvního místopředsedy zastává vždy osoba opačného pohlaví než předseda,
-e) je odpovědné RR a sjezdu SZ,
-f) schvaluje rozsah pověření hlavního manažera,
-g) schází se nejméně jedenkrát za tři týdny, 
-h) řeší veškeré další záležitosti, které nejsou v pravomoci jiného orgánu SZ,
-i) svolává je předseda strany,
-j) plní úkoly uložené Republikovou radou a řídí se jejími usneseními,
-k) volí delegáty mezinárodních rad a kongresů Evropské strany zelených a kongresů Světových zelených. 
+
+   a) je výkonným orgánem SZ v tom období mezi sjezdy, kdy nezasedá RR,
+
+   b) je voleno sjezdem, 
+
+   c) má sedm členů, tvoří je předseda, tři místopředsedové a tři další členové, jejichž oblast působnosti PSZ stanoví do dvou měsíců od zvolení, 
+
+   d) funkci prvního místopředsedy zastává vždy osoba opačného pohlaví než předseda,
+
+   e) je odpovědné RR a sjezdu SZ,
+
+   f) schvaluje rozsah pověření hlavního manažera,
+
+   g) schází se nejméně jedenkrát za tři týdny, 
+
+   h) řeší veškeré další záležitosti, které nejsou v pravomoci jiného orgánu SZ,
+
+   i) svolává je předseda strany,
+
+   j) plní úkoly uložené Republikovou radou a řídí se jejími usneseními,
+
+   k) volí delegáty mezinárodních rad a kongresů Evropské strany zelených a kongresů Světových zelených. 
 
 3. Pravomocí a povinností předsednictva SZ je zejména:
 a) zajišťovat vedení a chod strany v organizačních záležitostech a přijímat neodkladná rozhodnutí,
