@@ -977,7 +977,7 @@ V případě snížení počtu zástupců konkrétní KO v RR z důvodu poklesu 
 
 2. Všechny orgány SZ, jejich členové a členové SZ jsou při výkonu pravomocí orgánů SZ povinni spolupracovat s ostatními orgány SZ, jejich členy a členy SZ, zejména si navzájem poskytovat požadované informace, písemné materiály, a vyvíjet potřebnou součinnost.
 
-3. Zaměstnanci SZ nemohou být voleni či jmenováni do žádného orgánu SZ. Každý člen SZ může být členem pouze jednoho revizního orgánu, členství v revizním orgánu je neslučitelné se členstvím v jiném orgánu na stejné nebo nižší úrovni organizační struktury.
+3. Zaměstnanci SZ nemohou být voleni či jmenováni do žádného orgánu SZ. Každý člen SZ může být členem pouze jednoho revizního orgánu, členství v revizním orgánu je neslučitelné se členstvím v jiném orgánu na stejné nebo nižší úrovni organizační struktury. Volení funkcionáři SZ mohou za svou činnost pobírat odměnu. Pravidla stanovení a vyplácení odměny upravuje Hospodářský řád SZ.
 
 4. Členství v orgánu zaniká nabytím členství v jiném orgánu, jež je s dříve nabytým neslučitelné.
 
