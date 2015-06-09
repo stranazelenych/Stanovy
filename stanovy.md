@@ -715,52 +715,74 @@ V případě snížení počtu zástupců konkrétní KO v RR z důvodu poklesu 
    k) volí delegáty mezinárodních rad a kongresů Evropské strany zelených a kongresů Světových zelených. 
 
 3. Pravomocí a povinností předsednictva SZ je zejména:
-a) zajišťovat vedení a chod strany v organizačních záležitostech a přijímat neodkladná rozhodnutí,
-b) svolávat jednání sjezdu a svolávat jednání RR,
-c) připravovat program a materiály pro jednání sjezdu a republikové rady,
-d) navrhovat a realizovat plán činnosti strany,
-e) zaujímat stanoviska k aktuální politické situaci,
-f) průběžná kontrola dodržování rozpočtu strany a navrhovat rozpočtové změny,
-g) v případě nefunkčnosti některých funkcionářů na nižších organizačních stupních řešit situaci, případně dát návrh na jejich zbavení funkce, 
-h) zajišťovat informační servis všem nižším organizačním jednotkám,
-i) vydávat souhlas ke kandidatuře člena SZ za jiný politický subjekt, a to i v případě jeho kandidatury jako nezávislého kandidáta.
+
+   a) zajišťovat vedení a chod strany v organizačních záležitostech a přijímat neodkladná rozhodnutí,
+
+   b) svolávat jednání sjezdu a svolávat jednání RR,
+
+   c) připravovat program a materiály pro jednání sjezdu a republikové rady,
+
+   d) navrhovat a realizovat plán činnosti strany,
+
+   e) zaujímat stanoviska k aktuální politické situaci,
+
+   f) průběžná kontrola dodržování rozpočtu strany a navrhovat rozpočtové změny,
+
+   g) v případě nefunkčnosti některých funkcionářů na nižších organizačních stupních řešit situaci, případně dát návrh na jejich zbavení funkce, 
+
+   h) zajišťovat informační servis všem nižším organizačním jednotkám,
+
+   i) vydávat souhlas ke kandidatuře člena SZ za jiný politický subjekt, a to i v případě jeho kandidatury jako nezávislého kandidáta.
 
 4. Předsednictvo může některé své kompetence přenést na vedení strany, tvořené předsedou a místopředsedy či pověřit jimi některého z členů předsednictva.
 
 5. Předsednictvo může vytvářet poradní útvary, vedené jednotlivými členy předsednictva a těsně spolupracující s příslušnými odbornými sekcemi. 
 
-ČLÁNEK 19
-Předseda strany a místopředsedové
+##ČLÁNEK 19 Předseda strany a místopředsedové
 
 1. Předseda strany 
-a) zastupuje stranu navenek, 
-b) rozhoduje v neodkladných záležitostech a provádí neodkladné úkony, pokud k tomu není zapotřebí souhlas jiného orgánu, 
-c) svolává předsednictvo SZ a předsedá mu,
-d) předkládá sjezdu a RR zprávu předsedy strany, 
-e) je oprávněn účastnit se jednání všech orgánů strany, pokud není členem příslušného orgánu, vystupuje s hlasem poradním.
+
+   a) zastupuje stranu navenek, 
+
+   b) rozhoduje v neodkladných záležitostech a provádí neodkladné úkony, pokud k tomu není zapotřebí souhlas jiného orgánu, 
+
+   c) svolává předsednictvo SZ a předsedá mu,
+
+   d) předkládá sjezdu a RR zprávu předsedy strany, 
+
+   e) je oprávněn účastnit se jednání všech orgánů strany, pokud není členem příslušného orgánu, vystupuje s hlasem poradním.
 
 2. Místopředsedové strany zastupují předsedu SZ v pořadí určeném sjezdem, v době jeho nepřítomnosti nebo v době, kdy nemůže vykonávat svoji funkci zejména ze zdravotních, pracovních či jiných závažných důvodů. 
 
-ČLÁNEK 20
-Hlavní manažer
+##ČLÁNEK 20 Hlavní manažer
 
 1. Hlavní manažer
-a) je jmenován a odvoláván předsednictvem SZ, 
-b) při své činnosti je povinen řídit se pokyny předsednictva SZ,
-c) odpovídá za nakládání s majetkem SZ a může průběžně kontrolovat hospodaření ZO, MO a KO a předávat podněty Finanční kontrolní komisi,
-d) řídí činnost hlavní kanceláře a je za ni zodpovědný,
-e) po schválení předsednictvem uzavírá a po vyjádření předsednictva ukončuje pracovní poměr se zaměstnanci HK,
-f) na návrh rady KO uzavírá a ukončuje pracovní poměr se zaměstnanci působícími v krajských kancelářích,
-g) jedná jménem SZ v majetkových, hospodářských, pracovních a právních vztazích v rozsahu pověření předsednictvem,
-h) účastní se jednání RR, předsednictva a ÚRK,
-i) má právo účastnit se všech jednání orgánů strany s hlasem poradním,
-j) je zaměstnancem strany,
-k) musí mít uzavřenou dohodu o hmotné odpovědnosti,
+
+   a) je jmenován a odvoláván předsednictvem SZ, 
+
+   b) při své činnosti je povinen řídit se pokyny předsednictva SZ,
+
+   c) odpovídá za nakládání s majetkem SZ a může průběžně kontrolovat hospodaření ZO, MO a KO a předávat podněty Finanční kontrolní komisi,
+
+   d) řídí činnost hlavní kanceláře a je za ni zodpovědný,
+
+   e) po schválení předsednictvem uzavírá a po vyjádření předsednictva ukončuje pracovní poměr se zaměstnanci HK,
+
+   f) na návrh rady KO uzavírá a ukončuje pracovní poměr se zaměstnanci působícími v krajských kancelářích,
+
+   g) jedná jménem SZ v majetkových, hospodářských, pracovních a právních vztazích v rozsahu pověření předsednictvem,
+
+   h) účastní se jednání RR, předsednictva a ÚRK,
+
+   i) má právo účastnit se všech jednání orgánů strany s hlasem poradním,
+
+   j) je zaměstnancem strany,
+
+   k) musí mít uzavřenou dohodu o hmotné odpovědnosti,
 
 2. Funkce hlavního manažera je neslučitelná s funkcí poslance a senátora PČR, poslance EP, člena vlády či uvolněnou funkcí v územní samosprávě.
 
-ČLÁNEK 21
-Jednání jménem Strany zelených
+##ČLÁNEK 21 Jednání jménem Strany zelených
 
 1. Právní subjektivitu, tedy i způsobilost k právním úkonům, má SZ jako celek.
 
@@ -770,26 +792,35 @@ Jednání jménem Strany zelených
 
 4. Podepisování za SZ se děje tak, že k napsanému nebo vytištěnému názvu strany připojí předseda, případně místopředseda svůj podpis. 
 
-ČLÁNEK 22
-Revizní orgány
+##ČLÁNEK 22 Revizní orgány
 
 1. Používá se zkratka „RO“.
 
 2. Revizními orgány jsou:
-a) revizor ZO (revizor MO),
-b) nejméně tříčlenná krajská revizní komise,
-c) nejméně sedmičlenná ústřední revizní komise,
-d) nejméně tříčlenná finanční kontrolní komise.
+
+   a) revizor ZO (revizor MO),
+
+   b) nejméně tříčlenná krajská revizní komise,
+
+   c) nejméně sedmičlenná ústřední revizní komise,
+   
+   d) nejméně tříčlenná finanční kontrolní komise.
 
 3. Jsou voleny plenárními orgány dané územní úrovně a na jejich úrovni také působí.
 
 4. Revizní orgány zejména 
-a) kontrolují hospodářskou a správní činnost SZ na příslušné úrovni, zejména hospodárné a účelné využívání finančních prostředků a majetku SZ, 
-b) kontrolují dodržování stanov a vnitřních předpisů SZ, plnění usnesení stranických orgánů, činnost a hospodaření stranických orgánů,
-c) provádějí kontroly na vyžádání, průběžné kontroly a namátkové kontroly podle vlastního uvážení,
-d) navrhují dotčeným orgánům opatření k nápravě zjištěných nedostatků,
-e) v případě závažného porušení stanov nebo jiného stranického předpisu stranickým orgánem ruší ústřední nebo krajské revizní komise rozhodnutí tohoto orgánu a výsledek jeho voleb, aniž je nahrazují vlastním rozhodnutím; to neplatí v případě, ruší-li krajská revizní komise rozhodnutí revizora ZO; rozhodnutí orgánů ZO a výsledek jejích voleb ruší krajská revizní komise, rozhodnutí orgánů KO a výsledky jejích volby ruší ÚRK, ÚRK ruší rozhodnutí PSZ a RR a výsledky jejich voleb,
-f) zřizují a garantují činnost RSO.
+
+   a) kontrolují hospodářskou a správní činnost SZ na příslušné úrovni, zejména hospodárné a účelné využívání finančních prostředků a majetku SZ, 
+
+   b) kontrolují dodržování stanov a vnitřních předpisů SZ, plnění usnesení stranických orgánů, činnost a hospodaření stranických orgánů,
+
+   c) provádějí kontroly na vyžádání, průběžné kontroly a namátkové kontroly podle vlastního uvážení,
+
+   d) navrhují dotčeným orgánům opatření k nápravě zjištěných nedostatků,
+
+   e) v případě závažného porušení stanov nebo jiného stranického předpisu stranickým orgánem ruší ústřední nebo krajské revizní komise rozhodnutí tohoto orgánu a výsledek jeho voleb, aniž je nahrazují vlastním rozhodnutím; to neplatí v případě, ruší-li krajská revizní komise rozhodnutí revizora ZO; rozhodnutí orgánů ZO a výsledek jejích voleb ruší krajská revizní komise, rozhodnutí orgánů KO a výsledky jejích volby ruší ÚRK, ÚRK ruší rozhodnutí PSZ a RR a výsledky jejich voleb,
+
+   f) zřizují a garantují činnost RSO.
 
 5. Podání, stížnosti a kontrolní zjištění zpravidla řeší nejprve revizní komise na stupni, kde problém vznikl. Pokud se zde nepodaří záležitost vyřídit, předá j revizní komise spolu s podklady, vlastními zjištěními a doporučeními revizní komisi vyššího stupně. V případě sporu, který revizní orgán se bude podnětem zabývat, rozhoduje ÚRK. 
 
@@ -804,17 +835,22 @@ f) zřizují a garantují činnost RSO.
 10. Revizní orgány se řídí revizním řádem SZ, který předkládá ÚRK a schvaluje jej RR.
 
 11. Ústřední revizní komise
-a) navrhuje RR závazný výklad stanov a sjednocuje činnost revizních orgánů na nižších úrovních,
-b) schází se nejméně jedenkrát za dva měsíce,
-c) má právo se vyjadřovat k návrhům všech vnitrostranických předpisů s celostranickou působností před tím, než je RR projedná a případně schválí, a to ve lhůtě nejméně 30 dnů před navrženým projednáváním.
+
+   a) navrhuje RR závazný výklad stanov a sjednocuje činnost revizních orgánů na nižších úrovních,
+
+   b) schází se nejméně jedenkrát za dva měsíce,
+
+   c) má právo se vyjadřovat k návrhům všech vnitrostranických předpisů s celostranickou působností před tím, než je RR projedná a případně schválí, a to ve lhůtě nejméně 30 dnů před navrženým projednáváním.
 
 12. Finanční kontrolní komise
-a) kontroluje hospodářskou činnost SZ a stranických orgánů, zejména hospodárné a účelné využívání finančních prostředků a majetku SZ, kontroluje dodržování vnitřních předpisů SZ, které se k této činnosti vztahují,
-b) může vyzvat k provedení auditu a využít pro kontrolu hospodaření a správní činnosti SZ služby minimálně jednoho autorizovaného a nezávislého auditora,
-c) má právo se vyjadřovat k návrhům všech vnitrostranických předpisů s celostranickou působností před tím, než je RR projedná a případně schválí, a to ve lhůtě nejméně 30 dnů před navrženým projednáváním.
 
-ČLÁNEK 23
-Rozhodčí a smírčí orgány
+   a) kontroluje hospodářskou činnost SZ a stranických orgánů, zejména hospodárné a účelné využívání finančních prostředků a majetku SZ, kontroluje dodržování vnitřních předpisů SZ, které se k této činnosti vztahují,
+
+   b) může vyzvat k provedení auditu a využít pro kontrolu hospodaření a správní činnosti SZ služby minimálně jednoho autorizovaného a nezávislého auditora,
+
+   c) má právo se vyjadřovat k návrhům všech vnitrostranických předpisů s celostranickou působností před tím, než je RR projedná a případně schválí, a to ve lhůtě nejméně 30 dnů před navrženým projednáváním.
+
+##ČLÁNEK 23 Rozhodčí a smírčí orgány
 
 1. Používá se zkratka “RSO“.
 
@@ -834,36 +870,54 @@ Rozhodčí a smírčí orgány
 
 9. RSO se řídí Rozhodčím a smírčím řádem SZ, který předkládá ÚRK a schvaluje RR.
 
-10. Ombudsman
-a) je jedna osoba,
-b) může si přizvat spolupracovníky podle vlastního uvážení,
-c) je volen a odvoláván sjezdem,
-d) jeho mandát je tříletý,
-e) má poradní hlas,
-f) všechny orgány a členové jsou povinni mu poskytovat součinnost,
-g) má povinnost se zabývat všemi podněty, které obdrží, informovat o stavu jejich vyřizování a podat o něm závěrečnou zprávu,
-h) v souvislosti s projednávaným podnětem má právo se účastnit jednání jakéhokoliv orgánu s hlasem poradním,
-i) navrhuje změny vnitrostranických předpisů na základě přijatých podnětů i z vlastní iniciativy, 
-j) přispívá k řešení sporů uvnitř strany smírem a dohodou,
-k) přispívá ke kultivaci vnitrostranického právního a etického prostředí,
-l) usiluje o zvyšování kvality vnitrostranické demokracie. 
+10. Ombudsman  
+   
+   a) je jedna osoba,
+
+   b) může si přizvat spolupracovníky podle vlastního uvážení,
+
+   c) je volen a odvoláván sjezdem,
+   
+   d) jeho mandát je tříletý,
+
+   e) má poradní hlas,
+
+   f) všechny orgány a členové jsou povinni mu poskytovat součinnost,
+
+   g) má povinnost se zabývat všemi podněty, které obdrží, informovat o stavu jejich vyřizování a podat o něm závěrečnou zprávu,
+
+   h) v souvislosti s projednávaným podnětem má právo se účastnit jednání jakéhokoliv orgánu s hlasem poradním,
+
+   i) navrhuje změny vnitrostranických předpisů na základě přijatých podnětů i z vlastní iniciativy, 
+
+   j) přispívá k řešení sporů uvnitř strany smírem a dohodou,
+
+   k) přispívá ke kultivaci vnitrostranického právního a etického prostředí,
+
+   l) usiluje o zvyšování kvality vnitrostranické demokracie. 
 
 
-ČLÁNEK 24
-Odborné sekce
+##ČLÁNEK 24 Odborné sekce
 
 1. Používá se zkratka OS.
 
 2. Zřizuje je PSZ a jsou poradní a iniciativní složkou, ve které jsou zastoupeni odborníci z příslušné oblasti, členové i nečlenové SZ.
 
 3. Odborné sekce
-a) připravují podklady pro stanoviska a programové dokumenty SZ, vymezují a diskutují konkrétní i obecná odborná témata,
-b) projednávají plnění volebního programu v dané oblasti,
-c) zpracovávají expertní stanoviska nebo předkládají náměty, ke kterým by SZ měla zaujmout stanovisko,
-d) připravují rešerše a podklady podle zadání předsednictva SZ,
-e) sledují legislativní změny a komunikují s parlamentními stranami, připomínkují právní předpisy,
-f) vyhledávají a vyzývají k diskusi odborníky v dané oblasti; pořádají odborné semináře nebo jinak prezentují politiku SZ v dané oblasti směrem ke členům SZ i veřejnosti, a to ve spolupráci s předsednictvem a v souladu s programovými cíli, programem a vnitřními předpisy strany, 
-g) vyjadřují se k dalším otázkám, které jim předloží příslušný orgán strany. 
+
+   a) připravují podklady pro stanoviska a programové dokumenty SZ, vymezují a diskutují konkrétní i obecná odborná témata,
+
+   b) projednávají plnění volebního programu v dané oblasti,
+
+   c) zpracovávají expertní stanoviska nebo předkládají náměty, ke kterým by SZ měla zaujmout stanovisko,
+
+   d) připravují rešerše a podklady podle zadání předsednictva SZ,
+
+   e) sledují legislativní změny a komunikují s parlamentními stranami, připomínkují právní předpisy,
+
+   f) vyhledávají a vyzývají k diskusi odborníky v dané oblasti; pořádají odborné semináře nebo jinak prezentují politiku SZ v dané oblasti směrem ke členům SZ i veřejnosti, a to ve spolupráci s předsednictvem a v souladu s programovými cíli, programem a vnitřními předpisy strany, 
+
+   g) vyjadřují se k dalším otázkám, které jim předloží příslušný orgán strany. 
 
 4. V čele OS stojí vedoucí OS, kterého na návrh OS jmenuje předsednictvo. 
 
@@ -871,8 +925,7 @@ g) vyjadřují se k dalším otázkám, které jim předloží příslušný org
 
 6. OS pracují dle řádu OS schváleného RR. 
 
-ČLÁNEK 25
-Zásady hospodaření
+##ČLÁNEK 25 Zásady hospodaření
 
 1. Hospodaření SZ se řídí příslušnými ustanoveními platného zákona o sdružování v politických stranách a v politických hnutích.
 
@@ -890,18 +943,21 @@ Zásady hospodaření
 
 8. Dar je možné darovat pouze SZ jako celku. Přijetí daru v hodnotě vyšší než 50.000 Kč schvaluje vždy Předsednictvo SZ. Zajistí-li si jednotlivá organizační jednotka dar, náleží jí vždy minimálně 75% z tohoto daru, zbytek náleží SZ jako celku.
 
-ČLÁNEK 26
-Vnitrostranické referendum
+##ČLÁNEK 26 Vnitrostranické referendum
 
 1. O konkrétních politických otázkách lze vyhlásit vnitrostranické referendum. Hlasovací právo v něm mají všichni členové Strany zelených.
 
 2. Vnitrostranické referendum musí být provedeno na podnět:
 
-a) alespoň 1/10 členů Strany zelených nebo
-b) alespoň 1/5 základních organizací nebo
-c) alespoň 1/3 krajských organizací nebo
-d) republikové rady nebo
-e) sjezdu.
+   a) alespoň 1/10 členů Strany zelených nebo
+
+   b) alespoň 1/5 základních organizací nebo
+
+   c) alespoň 1/3 krajských organizací nebo
+
+   d) republikové rady nebo
+
+   e) sjezdu.
 
 3. Součástí podnětu je vymezení předmětu vnitrostranického referenda a přesná formulace pokládané otázky.
 
@@ -911,13 +967,11 @@ e) sjezdu.
 
 6. Všechna výše uvedená ustanovení se užijí přiměřeně pro vnitrostranické referendum krajské a městské. 
 
-ČLÁNEK 27
-Zánik strany
+##ČLÁNEK 27 Zánik strany
 
 1. O zrušení strany rozhoduje sjezd dvoutřetinovou většinou přítomných delegátů. O majetku rozhodne sjezd. Zároveň sjezd zvolí likvidátora, který provede vypořádání závazků a pohledávek strany a podá návrh na výmaz strany ze seznamu stran a hnutí.
 
-ČLÁNEK 28
-Společná ustanovení
+##ČLÁNEK 28 Společná ustanovení
 
 1. Funkční období všech volených členů orgánů strany vyjma ombudsmana je dvouleté. Mandát dotčeného člena orgánu SZ však neskončí dříve než v den, kdy se koná nejbližší schůze orgánu, který tohoto člena zvolil.
 
@@ -952,13 +1006,20 @@ Společná ustanovení
 16. Každá osoba oprávněná nakládat s majetkem SZ musí se SZ uzavřít dohodu o hmotné zodpovědnosti. Dohody o hmotné zodpovědnosti se archivují v HK. 
 
 17. Vnitřní předpisy strany jsou: 
-a) stanovy,
-b) hospodářský řád,
-c) jednací řád,
-d) volební řád,
-e) etický kodex zastupitele či člena parlamentu,
-f) rozhodčí a smírčí řád,
-g) revizní řád, jakož i další vnitřní předpisy.
+
+   a) stanovy,
+
+   b) hospodářský řád,
+
+   c) jednací řád,
+
+   d) volební řád,
+
+   e) etický kodex zastupitele či člena parlamentu,
+
+   f) rozhodčí a smírčí řád,
+
+   g) revizní řád, jakož i další vnitřní předpisy.
 
 18. Na kandidátní listině je v první dvojici a v každé následující trojici jeden kandidát opačného pohlaví, aby bylo dosaženo toho, že na kandidátních listinách bude zastoupeno opačné pohlaví alespoň 1/3. V případě koaličních kandidátek se kvóta vztahuje pouze na kandidáty SZ. 
 
@@ -968,8 +1029,7 @@ g) revizní řád, jakož i další vnitřní předpisy.
 
 21. Tato společná ustanovení platí, není-li uvedeno jinak.
 
-ČLÁNEK 29
-Seznam použitých zkratek
+##ČLÁNEK 29 Seznam použitých zkratek
 
 EP     Evropský parlament
 FKK   finanční kontrolní komise
@@ -991,8 +1051,7 @@ SZ      Strana zelených
 ÚRK   ústřední revizní komise
 ZO      základní organizace
 
-ČLÁNEK 30
-Přechodná a zmocňovací ustanovení
+##ČLÁNEK 30 Přechodná a zmocňovací ustanovení
 
 1. Na řízení o uložení pořádkového opatření, zrušení organizační jednotky, přerušení a pozastavení členství apod., zahájená před účinností těchto stanov, se přiměřeně použije ustanovení těchto stanov.
 
@@ -1010,8 +1069,7 @@ Přechodná a zmocňovací ustanovení
 
 8. Část ustanovení článku 16 odst. 12 písm. a) ve znění " a to 2/3 většinou hlasů " nabývá účinnosti od 1. ledna 2014.
 
-ČLÁNEK 31
-Platnost
+##ČLÁNEK 31 Platnost
 
 Tyto stanovy byly přijaty sjezdem SZ konaným v Táboře dne 27. září 2003. Stanovy SZ jsou ve znění změn, které přijaly sjezdy Strany zelených v Praze Vršovicích dne 11. prosince 2004, v Pardubicích dne 25. září 2005, v Brně dne 6. prosince 2009 a v Pardubicích dne 11. prosince 2011.
 
