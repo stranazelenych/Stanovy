@@ -1,4 +1,4 @@
-Tyto stanovy byly přijaty sjezdem SZ konaným v Táboře dne 27. září 2003. Stanovy SZ jsou ve znění změn, které přijaly sjezdy Strany zelených v Praze Vršovicích dne 11. prosince 2004, v Pardubicích dne 25. září 2005, v Brně dne 6. prosince 2009 a v Pardubicích dne 11. prosince 2011.
+Tyto stanovy byly přijaty sjezdem SZ konaným v Táboře dne 27. září 2003. Stanovy SZ jsou ve znění změn, které přijaly sjezdy Strany zelených v Praze Vršovicích dne 11. prosince 2004, v Pardubicích dne 25. září 2005, v Brně dne 6. prosince 2009, v Pardubicích dne 11. prosince 2011 a v České Třebové dne 27. listopadu 2015.
 
 #Stanovy Strany zelených
 
