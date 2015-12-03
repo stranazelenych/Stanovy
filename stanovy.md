@@ -657,7 +657,8 @@ V případě snížení počtu zástupců konkrétní KO v RR z důvodu poklesu 
       hospodářský řád,
       rozhodčí a smírčí řád,
       revizní řád,
-      etický kodex zastupitele či člena parlamentu;
+      etický kodex zastupitele či člena parlamentu
+      organizační řád;
 
    d) dále schvaluje:
 
@@ -849,6 +850,8 @@ V případě snížení počtu zástupců konkrétní KO v RR z důvodu poklesu 
    b) může vyzvat k provedení auditu a využít pro kontrolu hospodaření a správní činnosti SZ služby minimálně jednoho autorizovaného a nezávislého auditora,
 
    c) má právo se vyjadřovat k návrhům všech vnitrostranických předpisů s celostranickou působností před tím, než je RR projedná a případně schválí, a to ve lhůtě nejméně 30 dnů před navrženým projednáváním.
+   
+13. Revizor ZO nemůže být členem RZO ani pokladníkem ZO. Revizor MO nemůže být členem RMO ani pokladníkem MO. Člen KRK nemůže být členem RKO, pokladníkem KO, revizorem ZO ani revizorem MO. Člen ÚRK nemůže být členem RR, hlavním manažerem SZ ani členem KRK. Člen FKK nemůže být členem RR, hlavním manažerem SZ, členem KRK ani členem ÚRK. Z výkonu revizní činnosti je v jednotlivém případě vyloučen člen revizního orgánu, který se podílel na činnosti, která je předmětem revize
 
 ##ČLÁNEK 23 Rozhodčí a smírčí orgány
 
@@ -977,7 +980,7 @@ V případě snížení počtu zástupců konkrétní KO v RR z důvodu poklesu 
 
 2. Všechny orgány SZ, jejich členové a členové SZ jsou při výkonu pravomocí orgánů SZ povinni spolupracovat s ostatními orgány SZ, jejich členy a členy SZ, zejména si navzájem poskytovat požadované informace, písemné materiály, a vyvíjet potřebnou součinnost.
 
-3. Zaměstnanci SZ nemohou být voleni či jmenováni do žádného orgánu SZ. Každý člen SZ může být členem pouze jednoho revizního orgánu, členství v revizním orgánu je neslučitelné se členstvím v jiném orgánu na stejné nebo nižší úrovni organizační struktury. Volení funkcionáři SZ mohou za svou činnost pobírat odměnu. Pravidla stanovení a vyplácení odměny upravuje Hospodářský řád SZ.
+3. Zaměstnanci SZ nemohou být voleni či jmenováni do žádného orgánu SZ. Volení funkcionáři SZ mohou za svou činnost pobírat odměnu. Pravidla stanovení a vyplácení odměny upravuje Hospodářský řád SZ.
 
 4. Členství v orgánu zaniká nabytím členství v jiném orgánu, jež je s dříve nabytým neslučitelné.
 
@@ -1032,24 +1035,25 @@ V případě snížení počtu zástupců konkrétní KO v RR z důvodu poklesu 
 ##ČLÁNEK 29 Seznam použitých zkratek
 
 EP     Evropský parlament
-FKK   finanční kontrolní komise
+FKK    finanční kontrolní komise
 HK     hlavní kancelář
 HŘ     hospodářský řád
 KK     krajská konference
 KO     krajská organizace
 MK     městská konference
 MO     městská organizace
+OŘ     organizační řád
 OS     odborná sekce
-PČR   Parlament České republiky
+PČR    Parlament České republiky
 PSZ    předsednictvo Strany zelených
-RKO   rada krajské organizace
-RMO  rada městské organizace
+RKO    rada krajské organizace
+RMO    rada městské organizace
 RR     republiková rada
-RSO   rozhodčí a smírčí orgán
-RZO   rada základní organizace
-SZ      Strana zelených
-ÚRK   ústřední revizní komise
-ZO      základní organizace
+RSO    rozhodčí a smírčí orgán
+RZO    rada základní organizace
+SZ     Strana zelených
+ÚRK    ústřední revizní komise
+ZO     základní organizace
 
 ##ČLÁNEK 30 Přechodná a zmocňovací ustanovení
 
