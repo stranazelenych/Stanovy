@@ -328,7 +328,7 @@ v obcích a v městských obvodech či městských částech územně členěný
 
 3. ZO je tvořena minimálně třemi členy SZ, z nichž má alespoň jeden trvalé bydliště v místě působnosti.
 
-4. ZO je založena ustavující schůzí. K jejímu uskutečnění je třeba minimálně tří členů SZ. Na ustavující schůzi musí být pozváni předsedové příslušné KO a KRK. Na ustavující schůzi je vždy zvolen předseda ZO, revizor ZO a pokladník ZO, přičemž kumulace funkcí není přípustná. Podle počtu členů, přítomných na ustavující schůzi, jsou pak zvoleni místopředseda ZO a členové rady ZO. Předseda nově založené ZO je povinen nejpozději do 15 dnů od konání ustavující schůze odeslat kopii zápisu či usnesení a prezenční listiny z ustavující schůze HK a předsedovi KO. Jestliže budou všechny výše uvedené dokumenty v pořádku, zapíše HK nejpozději do 15 dnů od obdržení dokumentů nově vzniklou ZO do evidence a vyrozumí o tom písemně předsedu ZO a předsedu KO. ZO se pak považuje za ustavenou ke dni zápisu do evidence. Jestliže budou zápisu do evidence bránit zásadní nedostatky, chybějící, neúplný nebo nečitelný zápis či usnesení nebo chybějící prezenční listina, vyrozumí HK o tomto stavu písemně předsedu ZO a předsedu KO nejpozději do 15 dnů od obdržení dokumentů a vyzve předsedu ZO k odstranění či nápravě nedostatků. Jestliže tak předseda ZO neučiní do 30 dnů od obdržení výzvy, považuje se ZO za neustavenou.
+4. ZO je založena ustavující schůzí. K jejímu uskutečnění je třeba minimálně tří členů SZ. Na ustavující schůzi musí být pozváni předsedové příslušné KO a KRK. Na ustavující schůzi je vždy zvolen předseda (spolupředseda) ZO, revizor ZO a pokladník ZO, přičemž kumulace funkcí není přípustná. Podle počtu členů, přítomných na ustavující schůzi, jsou pak zvoleni místopředseda ZO a členové rady ZO. Předseda (spolupředseda) nově založené ZO je povinen nejpozději do 15 dnů od konání ustavující schůze odeslat kopii zápisu či usnesení a prezenční listiny z ustavující schůze HK a předsedovi KO. Jestliže budou všechny výše uvedené dokumenty v pořádku, zapíše HK nejpozději do 15 dnů od obdržení dokumentů nově vzniklou ZO do evidence a vyrozumí o tom písemně předsedu (spolupředsedy) ZO a předsedu KO. ZO se pak považuje za ustavenou ke dni zápisu do evidence. Jestliže budou zápisu do evidence bránit zásadní nedostatky, chybějící, neúplný nebo nečitelný zápis či usnesení nebo chybějící prezenční listina, vyrozumí HK o tomto stavu písemně předsedu (spolupředsedy) ZO a předsedu KO nejpozději do 15 dnů od obdržení dokumentů a vyzve předsedu (spolupředsedy) ZO k odstranění či nápravě nedostatků. Jestliže tak předseda (spolupředseda) ZO neučiní do 30 dnů od obdržení výzvy, považuje se ZO za neustavenou.
 
 5. Příjmy ZO jsou určeny hospodářským řádem. Zásady hospodaření ZO určuje hospodářský řád a obecně závazné právní předpisy. ZO sestavuje vlastní rozpočet, podle kterého hospodaří s majetkem svěřeným do jejího užívání.
 
@@ -368,13 +368,15 @@ v obcích a v městských obvodech či městských částech územně členěný
 
   o) schvaluje volební program pro volby do zastupitelstva,
 
-  p) může k jakékoliv politické otázce na dané úrovni vyjádřit doporučení.
+  p) může k jakékoliv politické otázce na dané úrovni vyjádřit doporučení,
+
+  q) rozhoduje o aplikaci spolupředsednictví.
 
 9. Má-li oblastní ZO nejméně tři členy s bydlištěm v jednom z míst působnosti (obci, resp. městském obvodu či městské části), rozhodují na členské schůzi o otázce týkající se tohoto místa, zejména o kandidátní listině do místního zastupitelstva, pouze tito členové, pokud jich je přítomna nadpoloviční většina a alespoň jeden z nich o to požádá. 
 
 10. Výkonným orgánem ZO je rada ZO, používá se zkratka RZO a
 
-  a) je tvořena předsedou ZO a místopředsedy ZO a zvolenými členy,
+  a) je tvořena předsedou (spolupředsedy) ZO a místopředsedy ZO a zvolenými členy,
 
   b) řídí činnost ZO,
 
@@ -382,9 +384,9 @@ v obcích a v městských obvodech či městských částech územně členěný
   
   d) navrhuje plán činnosti ZO.
 
-11. V ZO, která má méně než 15 členů, může převzít působnost rady ZO předseda ZO, případně předseda ZO s místopředsedou.
+11. V ZO, která má méně než 15 členů, může převzít působnost rady ZO předseda ZO, případně předseda (spolupředsedové) ZO s místopředsedou.
 
-12. Předseda ZO
+12. Předseda (spolupředsedové) ZO
 
   a) reprezentuje ZO,
 
@@ -437,9 +439,9 @@ v obcích a v městských obvodech či městských částech územně členěný
 
   a) stanovuje počet místopředsedů a členů RMO,
 
-  b) volí a odvolává předsedu MO, místopředsedy MO, další členy RMO, pokladníka a revizora,
+  b) volí a odvolává předsedu (spolupředsedy) MO, místopředsedy MO, další členy RMO, pokladníka a revizora,
 
-  c) schvaluje zprávy předsedy MO o činnosti a zprávu pokladníka MO a revizora MO,
+  c) schvaluje zprávy předsedy (spolupředsedů) MO o činnosti a zprávu pokladníka MO a revizora MO,
 
   d) projednává a schvaluje plán činnosti MO,
 
@@ -457,7 +459,7 @@ v obcích a v městských obvodech či městských částech územně členěný
 
 8. Výkonným orgánem MO je Rada MO, používá se zkratka RMO, která:
 
-  a) je tvořena předsedou MO a místopředsedy MO a zvolenými členy,
+  a) je tvořena předsedou (spolupředsedy) MO a místopředsedy MO a zvolenými členy,
 
   b) metodicky řídí a sjednocuje činnost ZO na území příslušného statutárního města,
 
@@ -465,7 +467,7 @@ v obcích a v městských obvodech či městských částech územně členěný
 
   d) navrhuje plán činnosti MO.
 
-9. Předseda MO
+9. Předseda (spolupředsedové) MO
 
   a) reprezentuje MO,
 
@@ -487,8 +489,7 @@ v obcích a v městských obvodech či městských částech územně členěný
 
 1. Používá se zkratka „KO“. 
 
-2. KO je odpovědná za činnost SZ v daném kraji a je tvořena všemi ZO příslušného kraje. KO je založena ustavující krajskou konferencí, kterou svolává a organizuje přípravný výbor tvořený předsedy jednotlivých ZO v kraji. Delegáty ustavující konference jsou všichni členové ZO v kraji. Na ustavující konferenci je vždy zvolen předseda KO, revizní komise KO a pokladník KO, přičemž na úrovni KO není kumulace funkcí přípustná. Podle počtu delegátů přítomných na ustavující konferenci KO jsou pak zvoleni místopředsedové KO a členové rady KO. Předseda nově založené KO je povinen nejpozději do 15 dnů od konání ustavující konference odeslat kopii zápisu či usnesení a prezenční listiny z ustavující konference HK. Jestliže budou všechny výše uvedené dokumenty v pořádku, zapíše HK nejpozději do 15 dnů od obdržení dokumentů nově vzniklou KO do evidence a vyrozumí 
-o tom písemně předsedu KO. KO se pak považuje za ustavenou včetně zápisu do evidence. Jestliže budou zápisu do evidence bránit zásadní nedostatky, chybějící, neúplný nebo nečitelný zápis či usnesení nebo chybějící prezenční listina, vyrozumí HK o tomto stavu písemně předsedu KO nejpozději do 15 dnů od obdržení dokumentů a vyzve předsedu KO k odstranění či nápravě nedostatků. Jestliže tak předseda KO neučiní do 30 dnů od obdržení výzvy, svolá a zorganizuje ustavující konferenci neprodleně HK, kdy přípravný výbor tvoří dva pověření členové předsednictva a jeden pověřený člen ÚRK. Je-li v kraji pouze jedna ZO, tvoří tato ZO i KO, v tomto případě mají orgány ZO pravomoci orgánů KO. Vznikne-li v kraji další ZO, je předseda té ZO, která měla dosud pravomoc KO povinen nejpozději do 30 dnů od zaevidování nové ZO iniciovat vznik přípravného výboru a svolat ustavující krajskou konferenci.“
+2. KO je odpovědná za činnost SZ v daném kraji a je tvořena všemi ZO příslušného kraje. KO je založena ustavující krajskou konferencí, kterou svolává a organizuje přípravný výbor tvořený předsedy jednotlivých ZO v kraji. Delegáty ustavující konference jsou všichni členové ZO v kraji. Na ustavující konferenci je vždy zvolen předseda (spolupředsedové) KO, revizní komise KO a pokladník KO, přičemž na úrovni KO není kumulace funkcí přípustná. Podle počtu delegátů přítomných na ustavující konferenci KO jsou pak zvoleni místopředsedové KO a členové rady KO. Předseda (spolupředsedové) nově založené KO je povinen nejpozději do 15 dnů od konání ustavující konference odeslat kopii zápisu či usnesení a prezenční listiny z ustavující konference HK. Jestliže budou všechny výše uvedené dokumenty v pořádku, zapíše HK nejpozději do 15 dnů od obdržení dokumentů nově vzniklou KO do evidence a vyrozumí o tom písemně předsedu (spolupředsedy) KO. KO se pak považuje za ustavenou včetně zápisu do evidence. Jestliže budou zápisu do evidence bránit zásadní nedostatky, chybějící, neúplný nebo nečitelný zápis či usnesení nebo chybějící prezenční listina, vyrozumí HK o tomto stavu písemně předsedu (spolupředsedy) KO nejpozději do 15 dnů od obdržení dokumentů a vyzve předsedu (spolupředsedy) KO k odstranění či nápravě nedostatků. Jestliže tak předseda (spolupředsedové) KO neučiní do 30 dnů od obdržení výzvy, svolá a zorganizuje ustavující konferenci neprodleně HK, kdy přípravný výbor tvoří dva pověření členové předsednictva a jeden pověřený člen ÚRK. Je-li v kraji pouze jedna ZO, tvoří tato ZO i KO, v tomto případě mají orgány ZO pravomoci orgánů KO. Vznikne-li v kraji další ZO, je předseda té ZO, která měla dosud pravomoc KO povinen nejpozději do 30 dnů od zaevidování nové ZO iniciovat vznik přípravného výboru a svolat ustavující krajskou konferenci.“
 
 3. KO reprezentuje stranu a jedná jejím jménem pouze v rozsahu své působnosti stanovené vnitřními předpisy strany.
 
@@ -532,11 +533,13 @@ o tom písemně předsedu KO. KO se pak považuje za ustavenou včetně zápisu 
 
   l) může k jakékoliv politické otázce na dané úrovni vyjádřit doporučení,
 
-  m) volí a odvolává zástupce KO v RR.
+  m) volí a odvolává zástupce KO v RR,
+
+  n) rozhoduje o aplikaci spolupředsednictví
 
 7. Výkonným orgánem KO je Rada KO, používá se zkratka RKO a 
 
-  a) je tvořena předsedou KO a místopředsedou KO a zvolenými členy, 
+  a) je tvořena předsedou (spolupředsedy) KO a místopředsedou KO a zvolenými členy, 
 
    b) metodicky řídí a sjednocuje činnost ZO,
 
@@ -544,7 +547,7 @@ o tom písemně předsedu KO. KO se pak považuje za ustavenou včetně zápisu 
 
    d) navrhuje plán činnosti KO.
 
-8. Předseda KO
+8. Předseda (spolupředsedové) KO
 
    a) reprezentuje KO,
 
@@ -635,7 +638,7 @@ o tom písemně předsedu KO. KO se pak považuje za ustavenou včetně zápisu 
 
    a) členy Předsednictva SZ,
    
-   b) předsedy KO,
+   b) předsedy (spolupředsedou) KO,
 
    c) zástupci KO volenými KK v počtu jeden zástupce na každých započatých 100 členů KO vždy k 31. 12. předchozího roku, resp. 30. 6. běžného roku, evidovaných v HK,
 
@@ -990,11 +993,11 @@ V případě snížení počtu zástupců konkrétní KO v RR z důvodu poklesu 
 
 7. Kolektivní orgány strany se řídí svými jednacími řády a mohou se usnášet za přítomnosti nadpoloviční většiny svých členů. Výjimku tvoří schůze ZO, která je usnášeníschopná půl hodiny po zahájení i za nepřítomnosti nadpoloviční většiny členů za předpokladu, že byla řádně svolána. V takovém případě však lze hlasovat pouze o bodech v rozesílaném programu výslovně uvedených. K přijetí usnesení je zapotřebí souhlasu nadpoloviční většiny přítomných, není-li ve stanovách či vnitřních předpisech stanoveno jinak. 
 
-8. Jednání kolektivních orgánů všech stupňů svolává a řídí předseda, resp. vedoucí příslušného orgánu, není-li uvedeno jinak. 
+8. Jednání kolektivních orgánů všech stupňů svolává a řídí spolupředseda, předseda, resp. vedoucí příslušného orgánu, není-li uvedeno jinak. 
 
 9. Požádají-li o to nejméně 2/5 členů jakéhokoliv orgánu SZ, musí být tento svolán ve lhůtě do 30 dnů, nestanoví-li vnitřní předpisy jinak. Program jednání jakéhokoliv orgánu SZ musí být rozeslán jeho členům vždy nejméně týden přede dnem konání jednání, nerozhodne-li příslušný orgán jinak.
 
-10. V době nepřítomnosti předsedy příslušného orgánu nebo v době, kdy nemůže vykonávat svoji funkci zejména ze zdravotních, pracovních či jiných závažných důvodů jej zastupují místopředsedové, a to v pořadí určeném orgánem, který je zvolil.
+10. V době nepřítomnosti spolupředsedy resp. předsedy příslušného orgánu nebo v době, kdy nemůže vykonávat svoji funkci zejména ze zdravotních, pracovních či jiných závažných důvodů jej zastupují druhý ze spolupředsedů nebo místopředsedové, a to v pořadí určeném orgánem, který je zvolil.
 
 11. Plenární orgán s výjimkou členské schůze ZO vždy volí při volbě do funkcí výkonných a revizních orgánů a při volbě delegátů náhradníky v počtu, který si stanoví. 
 
@@ -1028,9 +1031,11 @@ V případě snížení počtu zástupců konkrétní KO v RR z důvodu poklesu 
 
 19. Předsednictvo SZ, ÚRK a FKK jsou voleni poměrným volebním systémem jednoho přenosného hlasu, s výjimkou předsedy SZ a prvního místopředsedy SZ a předsedy ÚRK, kteří jsou voleni většinovou volbou. Ostatní orgány stanoví, zda budou volit poměrným volebním systémem jednoho přenosného hlasu nebo většinovým způsobem, pokud není uvedeno jinak. Podrobnosti upraví volební řád a příslušný řád primárních voleb.
 
-20. Není-li ve stanovách, v jednacím řádu či jiném řádu uvedeno jinak, je jednání všech orgánů veřejné a orgány jsou též povinny zveřejňovat všechny dokumenty, včetně podkladů k jednání. 
+20. Plenární orgány na místní (městské) a krajské úrovni mohou rozhodnout o aplikaci spolupředsednictví v jejich výkonných orgánech. V případě aplikace spolupředsednictví stojí v čele výkonného orgánu vždy dvě osoby jiného pohlaví. Na krajské úrovni tím není dotčen čl. 17 odst. 2, písm. b).
 
-21. Tato společná ustanovení platí, není-li uvedeno jinak.
+21. Není-li ve stanovách, v jednacím řádu či jiném řádu uvedeno jinak, je jednání všech orgánů veřejné a orgány jsou též povinny zveřejňovat všechny dokumenty, včetně podkladů k jednání. 
+
+22. Tato společná ustanovení platí, není-li uvedeno jinak.
 
 ##ČLÁNEK 29 Seznam použitých zkratek
 
