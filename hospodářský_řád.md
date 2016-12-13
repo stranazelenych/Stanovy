@@ -12,9 +12,9 @@ Majetek Strany zelených (SZ) tvoří věci movité a nemovité, pohledávky a j
 
 (4) Výkonný orgán může nakládat s rozpočtovou rezervou na základě souhlasu orgánu schvalujícího roční běžný rozpočet nebo v souladu s pravidly čerpání rozpočtových rezerv schválených orgánem oprávněným schvalovat roční běžný rozpočet.
 
-(5) Rozpočet volební kampaně (PS, senátu, EP, krajských a obecních zastupitelstev) není součástí ročního běžného rozpočtu.   § 
+(5) Rozpočet volební kampaně (PS, senátu, EP, krajských a obecních zastupitelstev) není součástí ročního běžného rozpočtu.  
 
-##3 Zdroje příjmů SZ 
+##§ 3 Zdroje příjmů SZ 
 
 Zdrojem příjmů SZ, nezbytných pro plnění úkolů plynoucích ze stanov a politického programu, jsou příjmy podle zákona o sdružování v politických stranách a politických hnutích. Patří mezi ně zejména členské příspěvky, dary, příjmy z pronájmu, z kulturních a společenských akcí, půjčky a úvěry, příspěvky ze státního rozpočtu České republiky na úhradu volebních nákladů a na činnost a státní příspěvky za získané mandáty.
 
@@ -48,17 +48,17 @@ c) pokladníkovi HK. Člen stvrdí uhrazení členského příspěvku podpisem n
 
 ##§ 6 Rozdělování státních příspěvků získaných při volbách
 
-(1) Minimálně 80 procent finančních prostředků získaných SZ za mandáty v zastupitelstvu kraje náleží příslušné KO.
+(1) Minimálně 80 % finančních prostředků získaných SZ za mandáty v zastupitelstvu kraje náleží příslušné KO.
 
-(2) Minimálně 20 procent finančních prostředků získaných za mandáty v Senátu náleží krajské organizaci kraje, v němž byl mandát získán. Nachází-li se volební obvod na území dvou a více krajů, náleží krajským organizacím poměrná část prostředků podle počtu hlasů odevzdaných ve prospěch získání mandátu v daném kraji.
+(2) Minimálně 20 % finančních prostředků získaných za mandáty v Senátu náleží krajské organizaci kraje, v němž byl mandát získán. Nachází-li se volební obvod na území dvou a více krajů, náleží krajským organizacím poměrná část prostředků podle počtu hlasů odevzdaných ve prospěch získání mandátu v daném kraji.
 
 (3) Při výsledku SZ ve volbách do Poslanecké sněmovny, který zajišťuje stálý roční státní příspěvek na činnost, náleží každé KO z této částky každoročně na činnost minimálně 100 000 Kč. K této částce bude navíc krajským organizacím přidělován každoročně příspěvek podle celkového výsledku v České republice a počtu hlasů v daném kraji podle klíče schváleného RR.
 
-(4) Z finančních prostředků získaných za hlasy ve volbách do Evropského parlamentu náleží minimálně 20 procent krajským organizacím, přičemž z poloviny stanovené výše dostávají všechny krajské organizace stejnou částku a druhá polovina se rozděluje na základě celkového výsledku v České republice a počtu hlasů v daném kraji podle klíče schváleného RR.
+(4) Z finančních prostředků získaných za hlasy ve volbách do Evropského parlamentu náleží minimálně 20 % krajským organizacím, přičemž z poloviny stanovené výše dostávají všechny krajské organizace stejnou částku a druhá polovina se rozděluje na základě celkového výsledku v České republice a počtu hlasů v daném kraji podle klíče schváleného RR.
 
 (5) Podíly finančních prostředků uvedené v odstavcích (1) až (4), budou z celkových prostředků SZ a krajských organizací uvolňovány rovnoměrně ve stejných částkách v každém roce volebního období, v objemech a termínech uvedených v §13, odst. (5) až (7).
 
-(6) Organizační jednotka může požádat PSZ o refundaci výdajů na volební kampaň, které vynaložila nad rámec prostředků poskytnutých této organizační jednotce v souvislosti s volební kampaní z prostředků SZ jako celku. V případě schválení žádosti PSZ předchází tato refundace výpočtu podílů finančních prostředků získaných za mandáty uvedené v odstavcích (1) a (2). 
+(6) Organizační jednotka může požádat PSZ o refundaci výdajů na volební kampaň, které vynaložila nad rámec prostředků poskytnutých této organizační jednotce v souvislosti s volební kampaní z prostředků SZ jako celku. V případě schválení žádosti PSZ předchází tato refundace výpočtu podílů finančních prostředků získaných za mandáty uvedené v odstavcích (1) a (2).
 
 ##§ 7 Účetnictví a účetní uzávěrka
 
@@ -104,7 +104,7 @@ c) pokladníkovi HK. Člen stvrdí uhrazení členského příspěvku podpisem n
 
 (6) Veškeré výdaje a závazky nad 100 000 Kč schvaluje PSZ předem a poté správce rozpočtu vydá pokyn plátci rozpočtu k proplacení.
 
-(7) PSZ může usnesením během účetního roku přesouvat mezi jednotlivými kapitolami ročního běžného rozpočtu částky až do výše 15 procent rozpočtu prostřednictvím rozpočtových opatření, jsou však povinni zachovávat celkovou výši rozpočtu.. Rozpočtová opatření musí být provedena bezprostředně, nejpozději však do 30 dní od vzniku takové potřeby přesunu finančních prostředků. Nedílnou součástí rozpočtového opatření je důvodová zpráva.
+(7) PSZ může usnesením během účetního roku přesouvat mezi jednotlivými kapitolami ročního běžného rozpočtu částky až do výše 15 % rozpočtu prostřednictvím rozpočtových opatření, jsou však povinni zachovávat celkovou výši rozpočtu. Rozpočtová opatření musí být provedena bezprostředně, nejpozději však do 30 dní od vzniku takové potřeby přesunu finančních prostředků. Nedílnou součástí rozpočtového opatření je důvodová zpráva.
 
 (8) Dispozice rozpočtovou rezervou, případně přesun z této rozpočtové rezervy do jiné kapitoly ročního běžného rozpočtu a ostatní přesuny mezi jednotlivými kapitolami nad rámec limitu uvedeného v odst. 7, § 11 mohou být provedeny pouze na základě rozpočtového opatření navrženého PSZ a schváleného RR před použitím těchto finančních prostředků. Nedílnou součástí návrhu rozpočtového opatření je důvodová zpráva.
 
@@ -136,7 +136,7 @@ g) Proti výsledkům výběrového řízení je možno podat protest k ÚRK, ten
 
 (2) Předseda organizační jednotky může  schválit přesun  výdajů mezi rozpočtovými kapitolami do částky 3 000 Kč za rok, rada organizační jednotky může vyslovit souhlas s přesunem ve výdajích do výše 15 % celkových výdajů za rok při zachování celkové výše schváleného rozpočtu.
 
-(3) Výše hodnoty darů subjektům mimo SZ v kalendářním roce nesmí překročit 10 procent příjmů a částku 20 000 Kč. O vyšších darech rozhoduje PSZ. Výší hodnoty darů se rozumí součet všech darů všem subjektům v roce. Za porušení tohoto pravidla nese hmotnou odpovědnost ten, kdo dar schválil nebo provedl převod. V případě kolektivního rozhodnutí hlasováním nesou členové orgánu, hlasující pro poskytnutí daru, hmotnou zodpovědnost poměrnou částí z hodnoty daru.
+(3) Výše hodnoty darů subjektům mimo SZ v kalendářním roce nesmí překročit 10 % příjmů a částku 20 000 Kč. O vyšších darech rozhoduje PSZ. Výší hodnoty darů se rozumí součet všech darů všem subjektům v roce. Za porušení tohoto pravidla nese hmotnou odpovědnost ten, kdo dar schválil nebo provedl převod. V případě kolektivního rozhodnutí hlasováním nesou členové orgánu, hlasující pro poskytnutí daru, hmotnou zodpovědnost poměrnou částí z hodnoty daru.
 
 (4) Při ukončení činnosti organizační jednotky SZ má nárok užívat majetek jednotka o stupeň vyšší. O způsobu majetkového vypořádání se podává zpráva PSZ.
 
@@ -146,15 +146,15 @@ g) Proti výsledkům výběrového řízení je možno podat protest k ÚRK, ten
 
 ##§ 12 Zásady hospodaření mezi organizačními jednotkami
 
-(1) Vydání prostředků z centrálního rozpočtu na účet organizační jednotky bude vedeno jako záloha, kterou je povinna organizační jednotka vyúčtovat do 15.12 běžného roku. Nevyúčtované prostředky se z pokladen a účtu vrací do 15.12. na centrální účet, či do centrální pokladny. Na tyto prostředky se vztahuje ustanovení §7 odst. (6) tohoto HŘ. Za vydání záloh pokladníkům krajských organizací v souladu se schváleným ročním běžným rozpočtem SZ a s ustanoveními tohoto řádu a s usneseními PSZ je zodpovědná HK.
+(1) Vydání prostředků z centrálního rozpočtu na účet organizační jednotky bude vedeno jako záloha, kterou je povinna organizační jednotka vyúčtovat do 15.12. běžného roku. Nevyúčtované prostředky se z pokladen a účtu vrací do 15.12. na centrální účet, či do centrální pokladny. Na tyto prostředky se vztahuje ustanovení §7 odst. (6) tohoto HŘ. Za vydání záloh pokladníkům krajských organizací v souladu se schváleným ročním běžným rozpočtem SZ a s ustanoveními tohoto řádu a s usneseními PSZ je zodpovědná HK.
 
 (2) Pokladník KO je zodpovědný za vydání finančních prostředků pokladníkům ZO v souladu se schváleným ročním běžným rozpočtem KO s ustanoveními tohoto řádu a usneseními rady KO. Toto ustanovení platí obdobně pro pokladníky základních organizací, které jsou součástí MO, ve vztahu k pokladníkovi MO.
 
-(3) HK je povinna do 30 dnů od předložení zprávy o hospodaření za uplynulý rok a ročního běžného rozpočtu na příslušný kalendářní rok, který schválila krajské konference, vyplatit krajské organizaci alespoň 50 procent z prostředků, které jim podle rozpočtu SZ náležejí, zbývající část nejpozději do 30.9. PSZ je v této věci oprávněno hlavní kanceláři udělit výjimku.
+(3) HK je povinna do 30 dnů od předložení zprávy o hospodaření za uplynulý rok a ročního běžného rozpočtu na příslušný kalendářní rok, který schválila krajské konference, vyplatit krajské organizaci alespoň 50 % z prostředků, které jim podle rozpočtu SZ náležejí, zbývající část nejpozději do 30.9. PSZ je v této věci oprávněno hlavní kanceláři udělit výjimku.
 
-(4) KO převede základním organizacím alespoň 50 procent z prostředků, které jim dle ročního běžného náleží, nejpozději do 15 dní od nabytí finančních prostředků KO dle § 13 odst. 3, zbývající část do 15.10.
+(4) KO převede základním organizacím alespoň 50 % z prostředků, které jim dle ročního běžného náleží, nejpozději do 15 dní od nabytí finančních prostředků KO dle § 12 odst. 3, zbývající část do 15.10.
 
-(5) Základní organizace, které jsou součástí MO. převedou městské organizaci přinejmenším 50 procent z prostředků, které jim podle ročních běžných rozpočtů základních organizací náleží, nejpozději do 15 dní od nabytí finančních prostředků ZO dle § 13 odst. 4., zbývající část do 30.10.
+(5) Základní organizace, které jsou součástí MO. převedou městské organizaci přinejmenším 50 % z prostředků, které jim podle ročních běžných rozpočtů základních organizací náleží, nejpozději do 15 dní od nabytí finančních prostředků ZO dle § 12 odst. 4., zbývající část do 30.10.
 
 (6) Povinnost podle odstavců 3, 4 a 5 zaniká, pokud povinné OJ neobdržely od příjemců finančních prostředků zprávy o hospodaření za uplynulý rok a základními a městskými organizacemi schválené roční běžné rozpočty na příslušný kalendářní rok. 
 
