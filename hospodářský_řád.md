@@ -108,7 +108,7 @@ c) pokladníkovi HK. Člen stvrdí uhrazení členského příspěvku podpisem n
 
 (8) Dispozice rozpočtovou rezervou, případně přesun z této rozpočtové rezervy do jiné kapitoly ročního běžného rozpočtu a ostatní přesuny mezi jednotlivými kapitolami nad rámec limitu uvedeného v odst. 7, § 11 mohou být provedeny pouze na základě rozpočtového opatření navrženého PSZ a schváleného RR před použitím těchto finančních prostředků. Nedílnou součástí návrhu rozpočtového opatření je důvodová zpráva.
 
-(9) O mzdách, odměnách a náhradách osob, které vykonávají pro SZ činnost, se rozhoduje podle obecně platných právních předpisů a podle pravidel určených tímto řádem. Platy zaměstnanců a odměny za činnost podle smlouvy stanovuje PSZ, přičemž se řídí schváleným ročním běžným rozpočtem SZ.
+(9) O mzdách, odměnách a náhradách osob, které vykonávají pro SZ činnost, se rozhoduje podle obecně platných právních předpisů a podle pravidel určených tímto řádem. Platy zaměstnanců a odměny za činnost podle smlouvy stanovuje PSZ, přičemž se řídí schváleným ročním běžným rozpočtem SZ. Odměny za činnost předsedy/předsedkyně, místopředsedy/místopředsedkyně a členů a členek PSZ stanovuje RR v rámci schválení ročního bežného rozpočtu SZ. Tam kde tento řád umožňuje rozhodovat o odměnách za činnost předsedy / předsedkyně / spolupředsedy / spolupředsedkyně na krajské úrovni, stanovuje odměny za činnost příslušná krajská organizace, přičemž se řídí schváleným rozpočtem KO
 
 (10) HK je povinna v nejbližším možném termínu, nejpozději však do 30 dnů po obdržení písemné žádosti zaslat informace o hospodaření Strany zelených kterékoliv krajské organizaci SZ, Podobně je pokladník krajské organizace  povinen do 30 dnů zaslat kterékoliv příslušné ZO a MO informace o hospodaření KO. Žádost zasílá předseda nebo jiný pověřený člen KO, MO a ZO.
 
@@ -158,7 +158,65 @@ g) Proti výsledkům výběrového řízení je možno podat protest k ÚRK, ten
 
 (6) Povinnost podle odstavců 3, 4 a 5 zaniká, pokud povinné OJ neobdržely od příjemců finančních prostředků zprávy o hospodaření za uplynulý rok a základními a městskými organizacemi schválené roční běžné rozpočty na příslušný kalendářní rok. 
 
-##§ 13 Seznam použitých zkratek
+##§ 13 Odměňování předsedy / předsedkyně / místopředsedy / místopředsedkyně 
+
+(1) Za svou funkci může být odměňován přeseda / předsedkyně nebo místopředseda / místopředsedkyně strany, který/která je pro tuto funkci dlouhodobě uvolněn/a (dále jen “uvolněná placená osoba”). Právo stát se placenou osobou má předseda/předsedkyně automaticky ze své funkce. O uvolnění místopředsedy či místopředsedkyně může rozhodnout PSZ v případě, že předseda či předsedkyně nemá o odměnu zájem nebo nesplňuje podmínky pro uvolnění pro tuto funkci. 
+
+(2) PSZ může schválit odměnu jen jedné uvolněné placené osobě. 
+
+(3) Výši odměny uvolněné placené osoby stanovuje RR, zejména v rámci schvalování běžného rozpočtu SZ. Maximální výše odměny je rovna odměně uvolněného starosty obce dle pravidel pro odměňování v samosprávě, kdy počet obyvatel obce pro výpočet částky je určen počtem členů Strany zelených k poslednímu dni předchozího kalendářního roku. 
+
+(4) Uvolněná placená osoba může pobírat odměnu pouze pokud:
+
+ - není uvolněna pro veřejnou funkci 
+
+ - nevykonává jiný pracovní či ekvivalentní úvazek o rozsahu větším než 0.25
+
+ - případně si nevydělá jako OSVČ či obdobnou formou více než 25 % průměrné roční mzdy v ČR. 
+
+Do limitu výdělku se nezapočítávají odměny za neuvolněné veřejné funkce, naopak se do tohoto limitu započítávají odměny za činnosti ve statutárních a kontrolních orgánech obchodních společností, včetně těch souvisejících s výkonem veřejné funkce.
+
+(5) Pro kontrolu tohoto ustanovení slouží povinné přiznání příjmů a majetku, který je uvolněná placená osoba povinna předložit do 30. 6. běžného roku FKK.
+
+(6) Uvolněná placená osoba se může své odměny vzdát na libovolný počet kalendářních měsíců v roce, aniž by byl dotčen nárok na schválenou odměnu v jiných měsících. 
+
+##§ 14 Odměna pro člena/členku PSZ 
+
+(1) Člen/členka PSZ může za svou činnost pobírat odměnu. Její výši schvaluje RR, zejména v rámci schvalování rozpočtu SZ na následující rok. 
+
+(2) Maximální výše odměny člena/členky PSZ je rovna výši odměny neuvolněného člena rady obce s počtem obyvatel shodným s počtem členů Strany zelených. Výše odměny musí být stanovena pro všechny členy/členky PSZ jednotně. Na rozdíl od uvolněné placené osoby nemusí člen/členka PSZ pro pobírání odměny splnit žádné podmínky týkající se uvolněné funkce, pracovních úvazků či výdělků. 
+
+(3) Člen/členka PSZ se může své odměny vzdát na libovolný počet měsíců; tímto není nijak ovlivněn nárok na odměnu ostatních členů PSZ ani nárok na odměnu v jiných měsících. 
+
+##§ 16 Odměňování předsedů / předsedkyň, případně spolupředsedů / spolupředsedkyň krajských organizací
+
+(1) Maximální výše odměny pro předsedu/předsedkyni/spolupředsedu/spolupředsedkyni (dále jen “osoba placená krajem”) je rovna výši odměny neuvolněného starosty obce s počtem obyvatel shodným s počtem členů příslušné krajské organizace Strany zelených. 
+
+(2) U KO, které maji zavedený institut spolupředsednictví, je možné odměnu v odlišné výši či pouze pro jednu osobu ve spolupředsednictví schválit pouze pokud s tím vysloví souhlas druhá osoba ve spolupředsednictví. Jinak je potřeba oběma schválit odměnu ve stejné výši. 
+
+(3) Osoba placená krajem může pobírat odměnu, pouze pokud není uvolněna pro veřejnou funkci. 
+
+(4) Výši odměny určuje vždy krajská konference v rámci schvalování rozpočtu KO na následující rok. Na rozdíl od odměny pro předsedu/předsedkyni SZ nevyplývá nárok na odměnu pro osobu placenou krajem z funkce a musí jej přiznat svým rozhodnutím KK.
+
+##§ 17 Společná ustanovení k odměnám za činnost
+
+(1) Odměna je předmětem odvodů na sociální a zdravotní pojištění a daně z příjmů, nenáleží však k ní žádné příplatky či požitky za práci přesčas, v noci, za ztížených pracovních podmínek a obdobné.
+
+(2) Vždy když se v textu hovoří o odměně, myslí se jí měsíční odměna.
+
+(3) Placená osoba může pobírat odměnu jen po dobu trvání svého mandátu.
+
+(4) V případě vzniku / zániku mandátu vzniká nárok na poměrnou část odměny za daný kalendářní měsíc.
+
+(5) Odměny není možné kumulovat ani vyplácet zálohově.
+
+(6) Výplata odměn pro osoby placené krajem na úrovni KO včetně příslušných odvodů je vždy vyplácena z rozpočtu příslušné KO. Strana zelených jako celek na tyto odměny nepřispívá. 
+
+(7) O schválení odměny či její změně je vždy třeba informovat FKK a hlavního manažera SZ.
+
+(8) V případě pochybností o dodržení správnosti postupu může FKK z vlastní iniciativy nebo na podnět kteréhokoli člena/členky SZ pozastavit vyplácení odměny do prošetření případu, nejdéle pak na 60 dnů.
+
+##§ 18 Seznam použitých zkratek
 
 SZ – Strana zelených
 
@@ -184,11 +242,11 @@ PS - poslanecká sněmovna parlamentu ČR
 
 EP - Evropský parlament
 
-##§ 14 Závěrečná a přechodná ustanovení
+##§ 19 Závěrečná a přechodná ustanovení
 
 (1) Toto znění hospodářského řádu Strany zelených nabývá účinnosti dnem jeho schválení RR SZ.
 
 *Schválila Republiková rada Strany zelených dne 15. ledna 2006.*
 *Dílčí změny schválila Republiková rada SZ dne 3. listopadu 2007 a  11. ledna 2009.*
 *Dílčí změny schválil Sjezd SZ dne 6. prosince 2009.*
-*Dílčí změny schválila Republiková rada SZ 9. ledna 2010, 7. listopadu 2015 a 3. září 2016.*
+*Dílčí změny schválila Republiková rada SZ 9. ledna 2010, 7. listopadu 2015, 3. září 2016 a 11. prosince 2016.*
