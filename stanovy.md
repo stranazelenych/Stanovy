@@ -5,7 +5,7 @@ Tyto stanovy byly přijaty sjezdem SZ konaným v Táboře dne 27. září 2003. 
 ##ČLÁNEK 1 Úvodní ustanovení
 
 1. Název politické strany je „Strana zelených“.
-2. Zkratka je „SZ“.
+2. Zkratka je „Zelení“. Pro vnitřní potřebu lze použít i zkratku SZ.
 3. Sídlem Strany zelených je Praha.
 
 ##ČLÁNEK 2 Programové cíle
@@ -40,7 +40,7 @@ Tyto stanovy byly přijaty sjezdem SZ konaným v Táboře dne 27. září 2003. 
   
   a) je starší 18 let,
 
-  b) je plně způsobilý k právním úkonům, 
+  b) je svéprávný, 
 
   c) není členem jiné politické strany nebo politického hnutí,
 
@@ -52,11 +52,11 @@ Tyto stanovy byly přijaty sjezdem SZ konaným v Táboře dne 27. září 2003. 
 
 ##ČLÁNEK 4 Vznik členství
 
-1. Členství ve straně vzniká podepsáním vyplněné přihlášky, přijetím členskou schůzí ZO, zaplacením členského příspěvku dle Hospodářského řádu (HŘ) a registrací v Hlavní kanceláři strany (HK). Přihlášku podává uchazeč o členství u kterékoli základní organizace (ZO), zpravidla však podle místa trvalého pobytu, do rukou předsedy ZO. Současné podání přihlášky u dvou různých ZO je nepřípustné. Člen získá hlasovací právo v ZO až po ukončení členské schůze ZO.
+1. Členství ve straně vzniká podepsáním vyplněné přihlášky, přijetím členskou schůzí ZO nebo rozhodnutím RKO, pokud v místě trvalého bydliště nepůsobí žádná ZO a zaplacením členského příspěvku dle Hospodářského řádu (HŘ). Přihlášku podává uchazeč o členství u kterékoli základní organizace (ZO), zpravidla však podle místa trvalého pobytu, do rukou předsedy (spolupředsedy) ZO. Současné podání přihlášky u dvou různých ZO je nepřípustné. Člen získá hlasovací právo v ZO až po ukončení členské schůze ZO. Pokud v místě trvalého bydliště uchazeče nepůsobí žádná ZO, je možné přihlášku podat příslušné RKO.
 
 2. Uchazeč o členství se dostaví na přijímací členskou schůzi. Pokud tak neučiní, nelze o jeho žádosti rozhodnout. Hlasování o přijetí uchazeče za člena probíhá v jeho osobní nepřítomnosti, pokud příslušná členská schůze jednomyslně neurčí jinak. Přihlášku, která nesplňuje náležitosti uvedené v článku 3 odst. 2, členská schůze neprojedná.
 
-3. Předseda vyznačí na přihlášce, kterou projednala členská schůze, rozhodnutí o přijetí či nepřijetí uchazeče. Přihlášku poté odešle ve lhůtě 15 dnů do hlavní kanceláře SZ. Kopii přihlášky si ponechá ZO k archivaci. HK nového člena zapíše do evidence členů, a vystaví mu členský průkaz, který do 15 dnů od data zapsání do evidence členů zašle přímo na jeho adresu. Přihláška nepřijatého uchazeče se ukládá v HK k archivaci.
+3. Předseda (spolupředseda) ZO vyznačí na přihlášce, kterou projednala členská schůze, rozhodnutí o přijetí či nepřijetí uchazeče. Přihlášku poté odešle ve lhůtě 15 dnů do hlavní kanceláře SZ. Kopii přihlášky si ponechá ZO k archivaci. HK ve lhůtě 10 dnů zaregistruje nového člena do evidence členů, a vystaví mu členský průkaz, který do 15 dnů od data zapsání do evidence členů zašle přímo na jeho adresu. Přihláška nepřijatého uchazeče se ukládá v HK k archivaci.
 
 4. Dokladem o členství je členský průkaz a potvrzení o úhradě členských příspěvků pro dané období. Dokladem o členství může být i výpis z evidence členů HK. HK informuje předsedy ZO o členech ZO platících rovnou na účet HK. 
 
@@ -67,9 +67,11 @@ Tyto stanovy byly přijaty sjezdem SZ konaným v Táboře dne 27. září 2003. 
 ČLÁNEK 5
 Přestup do jiné ZO
 
-1. K přestupu člena do ZO, která nepůsobí v místě jeho trvalého pobytu, je nutný souhlas cílové ZO s tímto přestupem a vyjádření výchozí ZO. 
+1. K přestupu člena do ZO, která nepůsobí v místě jeho trvalého pobytu, je nutný souhlas cílové ZO s tímto přestupem.
 
 2. Při přestupu do ZO v místě trvalého pobytu člena není souhlas cílové ZO nutný, ta vezme přestup pouze na vědomí. 
+
+3. Přestupem do jiné ZO není v případě podání návrhu na udělení pořádkového opatření dotčena pravomoc původních orgánů o takovém pořádkovém opatření rozhodnout.
 
 ##ČLÁNEK 6 Členská práva a povinnosti
 
@@ -129,7 +131,7 @@ Přestup do jiné ZO
 
   c) písemným prohlášením o vystoupení,
 
-  d) ztrátou způsobilosti k právním úkonům,
+  d) relevantním omezením svéprávnosti,
 
   e) vstupem do jiné politické strany nebo hnutí.
 
@@ -143,17 +145,15 @@ Přestup do jiné ZO
 
 ##ČLÁNEK 8 Přerušení členství
 
-1. Člen může své členství přerušit. Členství je přerušeno od okamžiku písemného doručení prohlášení o přerušení do HK. HK oznámí tuto skutečnost předsedovi příslušné ZO.
+- byl zrušen - 
 
-2. V době přerušení členství nemá člen práva a povinnosti dle článku 6 těchto stanov mimo povinností dle článku 6 odst. 2 písm. e), f), g) a h) stanov. Člen, jehož členství je přerušeno, se nezapočítává do počtu členů ZO pro stanovení počtu delegátů. 
+##ČLÁNEK 9 Čestné členství a zasloužilý člen / zasloužilá členka
 
-3. Členství, které si člen přerušil dle odst. 1, může obnovit písemným oznámením hlavní kanceláři. HK oznámí tuto skutečnost předsedovi příslušné ZO. Členství se obnovuje registrací HK nejpozději 30 dnů od doručení žádosti o obnovení členství do HK.
+1. Sjezd může udělit osobě, která s tím souhlasí, není členem strany a významnou měrou se přičinila o naplňování jejích idejí, čestné členství. Osobě s uděleným čestným členstvím tímto nevzniká členství ve straně.
 
-##ČLÁNEK 9 Čestné členství
+2. Sjezd může členovi/člence strany, který s tím souhlasí, udělit za mimořádné zásluhy straně titul zasloužilý člen / zasloužilá členka.
 
-1. Sjezd může udělit čestné členství ve straně osobě, která se významnou měrou přičinila o naplňování jejích idejí.
-
-2. Sjezd může čestné členství odebrat.
+3. Sjezd může čestné členství a titul zasloužilého člena / zasloužilé členky odebrat. Čestné členství také zaniká okamžikem vzniku členství dle těchto stanov.
 
 ##ČLÁNEK 10 Příznivci SZ
 
@@ -180,8 +180,6 @@ Přestup do jiné ZO
   a) svým jednáním podporovat SZ a její programové cíle,
 
   b) dbát o dobré jméno strany,
-
-  c) platit řádně příspěvky pro příznivce ve stanovené lhůtě a výši.
 
 5. Registrace příznivce strany zaniká:
 
@@ -221,11 +219,11 @@ Přestup do jiné ZO
 
 4. O odejmutí podílu na členských příspěvcích a dalších financích v případě porušování HŘ rozhoduje RR na návrh FKK.
 
-5. Rozhodnutí o uložení pořádkového opatření se přijímá 2/3 většinou přítomných.
+5. Rozhodnutí o uložení pořádkového opatření se přijímá 2/3 většinou přítomných, pokud není v těchto stanovách uvedeno jinak.
 
 6. O zbavení funkce, vyloučení a zrušení organizační jednotky SZ může být rozhodnuto pouze poté, co byl dotčený člen nebo orgán seznámen s důvody k tomu vedoucími.
 
-7. Napomenutí ukládá členovi příslušná Rada ZO nebo na návrh revizního orgánu vyšší výkonný orgán.
+7. Napomenutí ukládá členovi členská schůze ZO. Napomenutí může udělit na návrh revizního orgánu také vyšší výkonný orgán. 
 
 8. Funkce může člena SZ zbavit na návrh revizního orgánu vyšší výkonný orgán.
 
@@ -323,12 +321,11 @@ Přestup do jiné ZO
 
 1. Používá se zkratka „ZO“.
 
-2. Jsou základním článkem SZ a odpovídají za činnost SZ v místě působnosti. ZO se zakládají 
-v obcích a v městských obvodech či městských částech územně členěných statutárních měst. Se souhlasem příslušné krajské konference může vzniknout oblastní ZO působící na souvislém území více obcí téhož kraje; se souhlasem příslušné městské konference může vzniknout oblastní ZO působící na souvislém území více městských obvodů či městských částí téhož statutárního města. Vznik dvou či více základních organizací v jedné obci nebo v jednom obvodu či části statutárního města je vyloučen.
+2. Jsou základním článkem SZ a odpovídají za činnost SZ v místě působnosti. ZO se zakládají v obcích a v městských obvodech či městských částech územně členěných statutárních měst. Se souhlasem příslušné krajské konference může vzniknout oblastní ZO působící na souvislém území více obcí téhož kraje; se souhlasem příslušné městské konference může vzniknout oblastní ZO působící na souvislém území více městských obvodů či městských částí téhož statutárního města. Vznik dvou či více základních organizací v jedné obci nebo v jednom obvodu či části statutárního města je vyloučen.
 
 3. ZO je tvořena minimálně třemi členy SZ, z nichž má alespoň jeden trvalé bydliště v místě působnosti.
 
-4. ZO je založena ustavující schůzí. K jejímu uskutečnění je třeba minimálně tří členů SZ. Na ustavující schůzi musí být pozváni předsedové příslušné KO a KRK. Na ustavující schůzi je vždy zvolen předseda (spolupředseda) ZO, revizor ZO a pokladník ZO, přičemž kumulace funkcí není přípustná. Podle počtu členů, přítomných na ustavující schůzi, jsou pak zvoleni místopředseda ZO a členové rady ZO. Předseda (spolupředseda) nově založené ZO je povinen nejpozději do 15 dnů od konání ustavující schůze odeslat kopii zápisu či usnesení a prezenční listiny z ustavující schůze HK a předsedovi KO. Jestliže budou všechny výše uvedené dokumenty v pořádku, zapíše HK nejpozději do 15 dnů od obdržení dokumentů nově vzniklou ZO do evidence a vyrozumí o tom písemně předsedu (spolupředsedy) ZO a předsedu KO. ZO se pak považuje za ustavenou ke dni zápisu do evidence. Jestliže budou zápisu do evidence bránit zásadní nedostatky, chybějící, neúplný nebo nečitelný zápis či usnesení nebo chybějící prezenční listina, vyrozumí HK o tomto stavu písemně předsedu (spolupředsedy) ZO a předsedu KO nejpozději do 15 dnů od obdržení dokumentů a vyzve předsedu (spolupředsedy) ZO k odstranění či nápravě nedostatků. Jestliže tak předseda (spolupředseda) ZO neučiní do 30 dnů od obdržení výzvy, považuje se ZO za neustavenou.
+4. ZO je založena ustavující schůzí. K jejímu uskutečnění je třeba minimálně tří členů SZ. Na ustavující schůzi musí být pozváni předsedové (spolupředsedové) příslušné KO a předseda KRK. Na ustavující schůzi je vždy zvolen předseda (spolupředseda) ZO, revizor ZO a pokladník ZO, přičemž kumulace funkcí není přípustná. Podle počtu členů, přítomných na ustavující schůzi, jsou pak zvoleni místopředseda ZO a členové rady ZO. Předseda (spolupředseda) nově založené ZO je povinen nejpozději do 15 dnů od konání ustavující schůze odeslat kopii zápisu či usnesení a prezenční listiny z ustavující schůze HK a předsedovi (spolupředsedovi) KO. Jestliže budou všechny výše uvedené dokumenty v pořádku, zapíše HK nejpozději do 15 dnů od obdržení dokumentů nově vzniklou ZO do evidence a vyrozumí o tom písemně předsedu (spolupředsedy) ZO a předsedu (spolupředsedu) KO. ZO se pak považuje za ustavenou ke dni zápisu do evidence. Jestliže budou zápisu do evidence bránit zásadní nedostatky, chybějící, neúplný nebo nečitelný zápis či usnesení nebo chybějící prezenční listina, vyrozumí HK o tomto stavu písemně předsedu (spolupředsedy) ZO a předsedu (spolupředsedu) KO nejpozději do 15 dnů od obdržení dokumentů a vyzve předsedu (spolupředsedy) ZO k odstranění či nápravě nedostatků. Jestliže tak předseda (spolupředseda) ZO neučiní do 30 dnů od obdržení výzvy, považuje se ZO za neustavenou.
 
 5. Příjmy ZO jsou určeny hospodářským řádem. Zásady hospodaření ZO určuje hospodářský řád a obecně závazné právní předpisy. ZO sestavuje vlastní rozpočet, podle kterého hospodaří s majetkem svěřeným do jejího užívání.
 
@@ -340,7 +337,7 @@ v obcích a v městských obvodech či městských částech územně členěný
 
   a) stanovuje počet místopředsedů a členů rady ZO,
 
-  b) volí a odvolává předsedu, místopředsedu a další členy rady ZO,
+  b) volí a odvolává předsedu (spolupředsedu), místopředsedu a další členy rady ZO,
 
   c) volí a odvolává revizora a pokladníka,
 
@@ -350,7 +347,7 @@ v obcích a v městských obvodech či městských částech územně členěný
 
   f) rozhoduje o přerušení členství, 
 
-  g) schvaluje zprávu předsedy o činnosti ZO a zprávu pokladníka a revizora,
+  g) schvaluje zprávu předsedy (spolupředsedy) o činnosti ZO a zprávu pokladníka a revizora,
 
   h) projednává a schvaluje plán činnosti ZO,
 
@@ -394,7 +391,7 @@ v obcích a v městských obvodech či městských částech územně členěný
 
   c) předkládá schůzi ZO výroční zprávu,
 
-  d) zasílá schválenou zprávu o hospodaření HK a předsedovi příslušné KO,
+  d) zasílá schválenou zprávu o hospodaření HK a předsedovi (spolupředsedům) příslušné KO,
 
 13. Pokladník
 
@@ -420,7 +417,7 @@ v obcích a v městských obvodech či městských částech územně členěný
 
 1. Používá se zkratka „MO“.
 
-2. MO vzniká jen ve statutárních městech členěných na městské části či městské obvody a je tvořena všemi ZO na území statutárního města. Ustavující městskou konferenci svolává předseda KO do 30 dnů od vzniku druhé ZO působící na území statutárního města. Delegáty ustavující městské konference jsou všichni členové všech ZO působících na území statutárního města.
+2. MO vzniká jen ve statutárních městech členěných na městské části či městské obvody a je tvořena všemi ZO na území statutárního města. Ustavující městskou konferenci svolává předseda (spolupředseda) KO do 30 dnů od vzniku druhé ZO působící na území statutárního města. Delegáty ustavující městské konference jsou všichni členové všech ZO působících na území statutárního města.
 
 3. Je-li ve statutárním městě pouze jedna ZO, mají orgány této ZO také pravomoci orgánů MO.
 
@@ -456,6 +453,10 @@ v obcích a v městských obvodech či městských částech územně členěný
   i) schvaluje program pro volby do zastupitelstva statutárního města
 
   j) může k jakékoliv politické otázce na dané úrovni vyjádřit doporučení.
+  
+  k) rozhoduje o aplikaci spolupředsednictví
+  
+  l) schvaluje obsah a uzavření předvolebních i povolebních koaličních smluv na příslušné úrovni, pokud městská konference touto kompetencí nepověří RMO,
 
 8. Výkonným orgánem MO je Rada MO, používá se zkratka RMO, která:
 
@@ -489,7 +490,7 @@ v obcích a v městských obvodech či městských částech územně členěný
 
 1. Používá se zkratka „KO“. 
 
-2. KO je odpovědná za činnost SZ v daném kraji a je tvořena všemi ZO příslušného kraje. KO je založena ustavující krajskou konferencí, kterou svolává a organizuje přípravný výbor tvořený předsedy jednotlivých ZO v kraji. Delegáty ustavující konference jsou všichni členové ZO v kraji. Na ustavující konferenci je vždy zvolen předseda (spolupředsedové) KO, revizní komise KO a pokladník KO, přičemž na úrovni KO není kumulace funkcí přípustná. Podle počtu delegátů přítomných na ustavující konferenci KO jsou pak zvoleni místopředsedové KO a členové rady KO. Předseda (spolupředsedové) nově založené KO je povinen nejpozději do 15 dnů od konání ustavující konference odeslat kopii zápisu či usnesení a prezenční listiny z ustavující konference HK. Jestliže budou všechny výše uvedené dokumenty v pořádku, zapíše HK nejpozději do 15 dnů od obdržení dokumentů nově vzniklou KO do evidence a vyrozumí o tom písemně předsedu (spolupředsedy) KO. KO se pak považuje za ustavenou včetně zápisu do evidence. Jestliže budou zápisu do evidence bránit zásadní nedostatky, chybějící, neúplný nebo nečitelný zápis či usnesení nebo chybějící prezenční listina, vyrozumí HK o tomto stavu písemně předsedu (spolupředsedy) KO nejpozději do 15 dnů od obdržení dokumentů a vyzve předsedu (spolupředsedy) KO k odstranění či nápravě nedostatků. Jestliže tak předseda (spolupředsedové) KO neučiní do 30 dnů od obdržení výzvy, svolá a zorganizuje ustavující konferenci neprodleně HK, kdy přípravný výbor tvoří dva pověření členové předsednictva a jeden pověřený člen ÚRK. Je-li v kraji pouze jedna ZO, tvoří tato ZO i KO, v tomto případě mají orgány ZO pravomoci orgánů KO. Vznikne-li v kraji další ZO, je předseda té ZO, která měla dosud pravomoc KO povinen nejpozději do 30 dnů od zaevidování nové ZO iniciovat vznik přípravného výboru a svolat ustavující krajskou konferenci.“
+2. KO je odpovědná za činnost SZ v daném kraji a je tvořena všemi ZO příslušného kraje. KO je založena ustavující krajskou konferencí, kterou svolává a organizuje přípravný výbor tvořený předsedy (spolupředsedy) jednotlivých ZO v kraji. Delegáty ustavující konference jsou všichni členové ZO v kraji. Na ustavující konferenci je vždy zvolen předseda (spolupředsedové) KO, revizní komise KO a pokladník KO, přičemž na úrovni KO není kumulace funkcí přípustná. Podle počtu delegátů přítomných na ustavující konferenci KO jsou pak zvoleni místopředsedové KO a členové rady KO. Předseda (spolupředsedové) nově založené KO je povinen nejpozději do 15 dnů od konání ustavující konference odeslat kopii zápisu či usnesení a prezenční listiny z ustavující konference HK. Jestliže budou všechny výše uvedené dokumenty v pořádku, zapíše HK nejpozději do 15 dnů od obdržení dokumentů nově vzniklou KO do evidence a vyrozumí o tom písemně předsedu (spolupředsedy) KO. KO se pak považuje za ustavenou včetně zápisu do evidence. Jestliže budou zápisu do evidence bránit zásadní nedostatky, chybějící, neúplný nebo nečitelný zápis či usnesení nebo chybějící prezenční listina, vyrozumí HK o tomto stavu písemně předsedu (spolupředsedy) KO nejpozději do 15 dnů od obdržení dokumentů a vyzve předsedu (spolupředsedy) KO k odstranění či nápravě nedostatků. Jestliže tak předseda (spolupředsedové) KO neučiní do 30 dnů od obdržení výzvy, svolá a zorganizuje ustavující konferenci neprodleně HK, kdy přípravný výbor tvoří dva pověření členové předsednictva a jeden pověřený člen ÚRK. Je-li v kraji pouze jedna ZO, tvoří tato ZO i KO, v tomto případě mají orgány ZO pravomoci orgánů KO. Vznikne-li v kraji další ZO, je předseda (spolupředsedové) té ZO, která měla dosud pravomoc KO povinen nejpozději do 30 dnů od zaevidování nové ZO iniciovat vznik přípravného výboru a svolat ustavující krajskou konferenci.“
 
 3. KO reprezentuje stranu a jedná jejím jménem pouze v rozsahu své působnosti stanovené vnitřními předpisy strany.
 
@@ -513,7 +514,7 @@ v obcích a v městských obvodech či městských částech územně členěný
 
   b) stanoví počet členů revizní komise,  
 
-  c) volí a odvolává předsedu KO, místopředsedy KO a členy RKO, pokladníka a revizní komisi,
+  c) volí a odvolává předsedu (spolupředsedy) KO, místopředsedy KO a členy RKO, pokladníka a revizní komisi,
   
   d) schvaluje zprávy předsedy KO o činnosti a zprávu pokladníka a revizní komise,
 
@@ -536,6 +537,8 @@ v obcích a v městských obvodech či městských částech územně členěný
   m) volí a odvolává zástupce KO v RR,
 
   n) rozhoduje o aplikaci spolupředsednictví
+  
+  o) schvaluje obsah a uzavření předvolebních i povolebních koaličních smluv na příslušné úrovni, pokud krajská konference touto kompetencí nepověří RKO,
 
 7. Výkonným orgánem KO je Rada KO, používá se zkratka RKO a 
 
@@ -569,11 +572,11 @@ v obcích a v městských obvodech či městských částech územně členěný
 
 1. Je nejvyšším orgánem SZ.
 
-2. Sjezd svolává Předsednictvo SZ nejméně jednou za rok.
+2. Sjezd svolává Předsednictvo SZ nejméně jednou za dva roky. Termín svolání sjezdu může být do konce kalendářního měsíce, ve kterém uplynou 2 roky od posledního konání sjezdu.
 
-3. Mimořádný sjezd je Předsednictvo SZ povinno svolat, požádají-li o to alespoň 2/5 členů SZ, plenární orgány alespoň 2/5 ZO či 2/5 KO nebo RR 2/3 všech svých členů.
+3. Mimořádný sjezd je Předsednictvo SZ povinno svolat, klesne-li počet členů Předsednictva SZ či ÚRK o více než 2/5, požádají-li o to alespoň 2/5 členů SZ, plenární orgány alespoň 2/5 ZO či 2/5 KO nebo RR 2/3 všech svých členů.
 
-4. Nesvolá-li Předsednictvo řádný či mimořádný sjezd ve stanoveném termínu nebo klesne-li počet členů Předsednictva SZ či ÚRK o více než 2/5, svolá sjezd osoba pověřená RR.
+4. Nesvolá-li Předsednictvo SZ řádný či mimořádný sjezd ve stanoveném termínu nebo stane-li se Předsednictvo SZ nefunkční z důvodu poklesu počtu členů pod hranici usnášeníschopnosti, svolá sjezd osoba pověřená RR.
 
 5. Sjezd je tvořen:
 
@@ -583,7 +586,7 @@ v obcích a v městských obvodech či městských částech územně členěný
 
       ii) členy předsednictva SZ,
 
-      iii) poslanci a senátory Parlamentu ĆR a poslanci EP zvolenými za SZ, jsou-li členy SZ;
+      iii) poslanci a senátory Parlamentu ČR a poslanci EP zvolenými za SZ, jsou-li členy SZ;
 
    b) účastníky s hlasem poradním, pokud nejsou účastníky s hlasem rozhodujícím, tedy:
    
@@ -591,6 +594,7 @@ v obcích a v městských obvodech či městských částech územně členěný
       ii) členy ÚRK,
       iii) vedoucími odborných sekcí,
       iv) hlavním manažerem SZ;
+      v) zasloužilými a čestnými členy SZ
 
    c) hosty pozvanými PSZ. 
 
@@ -602,7 +606,7 @@ v obcích a v městských obvodech či městských částech územně členěný
 
 9. Materiály, které se mají na sjezdu projednávat nebo schvalovat, předkládá předsednictvo, které je prostřednictvím hlavní kanceláře zašle alespoň 30 dní před konáním sjezdu všem krajským a základním organizacím s výjimkou odůvodněně neodkladných materiálů, jejichž projednávání však sjezd může odmítnout. Předsednictvo předloží sjezdu materiály, jejichž předložení sjezdu podpoří alespoň jedna ZO.
 
-10. Jména delegátů a náhradníků musí být hlavní kanceláři strany nahlášena předsedy krajských organizací nejpozději 21 dnů před termínem konání sjezdu. 
+10. Jména delegátů a náhradníků musí být hlavní kanceláři strany nahlášena předsedy (spolupředsedy) krajských organizací nejpozději 21 dnů před termínem konání sjezdu. 
 
 11. Sjezd řídí jím zvolené pracovní předsednictvo.
 
@@ -622,13 +626,11 @@ v obcích a v městských obvodech či městských částech územně členěný
 
    g) určovat počet členů ÚRK, volit předsedu a další členy ústřední revizní komise strany,
 
-   h) volit členy republikové rady, kteří jsou voleni sjezdem.
+   h) rozhodovat o sloučení strany s jinými politickými stranami či hnutími, 
 
-   i) rozhodovat o sloučení strany s jinými politickými stranami či hnutími, 
+   i) rozhodovat o zrušení strany.
 
-   j) rozhodovat o zrušení strany.
-
-13. Výkonem svých pravomocí s výjimkou pravomocí pod písmenem a), e), f), g), h), i), j) může sjezd pověřit RR.
+13. Výkonem svých pravomocí s výjimkou pravomocí pod písmenem a), e), f), g), h), i) může sjezd pověřit RR.
 
 ##ČLÁNEK 17 Republiková rada
 
@@ -662,12 +664,13 @@ V případě snížení počtu zástupců konkrétní KO v RR z důvodu poklesu 
       revizní řád,
       etický kodex zastupitele či člena parlamentu
       organizační řád;
+      řád vnitrostranického referenda;
 
    d) dále schvaluje:
 
       i. rozpočet strany pro následující rok,
-      ii. celostátní volební programy,
-      iii. uzavření republikových předvolebních či povolebních koalic,
+      ii. celostátní volební programy, 
+      iii. schvaluje obsah a uzavření předvolebních i povolebních koaličních smluv na republikové úrovni
       iv. společnou strategii voleb do zastupitelstev krajů 
       v. v závažných a odůvodněných případech úpravy kandidátek do krajských a komunálních voleb, 
       vi. strategii voleb a kandidáty do Poslanecké sněmovny Parlamentu ČR,
@@ -689,6 +692,8 @@ V případě snížení počtu zástupců konkrétní KO v RR z důvodu poklesu 
 4. RR může výkonem svých pravomocí pověřit předsednictvo, s výjimkou schvalování vnitřních předpisů strany, schvalování strategie voleb a kandidátů a pravomocí pod písmenem d) bod i), v), ix)
 
 5. RR se schází nejméně jedenkrát za šest měsíců.
+
+6) Pokud PSZ nesvolá nebo není schopno svolat RR dle těchto Stanov, učiní tak nejstarší člen RR.
 
 ##ČLÁNEK 18 Předsednictvo
 
@@ -788,13 +793,15 @@ V případě snížení počtu zástupců konkrétní KO v RR z důvodu poklesu 
 
 ##ČLÁNEK 21 Jednání jménem Strany zelených
 
-1. Právní subjektivitu, tedy i způsobilost k právním úkonům, má SZ jako celek.
+1. Právní osobnost, tedy i způsobilost k právním jednáním, má SZ jako celek.
 
 2. Organizační jednotky, orgány, jednotliví členové SZ, nebo zaměstnanci SZ mohou za SZ jednat (činit právní úkony) pouze na základě plné moci udělené osobami oprávněnými jednat jménem strany nebo v takovém rozsahu, jak je jim svěřeno vnitřními předpisy strany.
 
 3. Statutárními orgány strany jsou předseda a místopředsedové SZ. V neběžných záležitostech je potřeba podpisu dvou statutárních zástupců. Neběžnou záležitostí je zejména uzavírání politických dohod a zavazování se nad částku vyšší než 50.000,- Kč.
 
 4. Podepisování za SZ se děje tak, že k napsanému nebo vytištěnému názvu strany připojí předseda, případně místopředseda svůj podpis. 
+
+5. V případě poklesu počtu statutárních zástupců SZ na 2 či méně, zvolí RR ze stávajících členů PSZ místopředsedy tak, aby byl počet statutárních zástupců nejméně 3.
 
 ##ČLÁNEK 22 Revizní orgány
 
@@ -838,13 +845,15 @@ V případě snížení počtu zástupců konkrétní KO v RR z důvodu poklesu 
 
 10. Revizní orgány se řídí revizním řádem SZ, který předkládá ÚRK a schvaluje jej RR.
 
-11. Ústřední revizní komise
+11. Ústřední revizní komise je nejvyšším revizním orgánem SZ a zejména:
 
-   a) navrhuje RR závazný výklad stanov a sjednocuje činnost revizních orgánů na nižších úrovních,
+   a) navrhuje RR závazný výklad stanov a vykládá další vnitrostranické předpisy a sjednocuje činnost revizních orgánů na nižších úrovních,
 
    b) schází se nejméně jedenkrát za dva měsíce,
 
    c) má právo se vyjadřovat k návrhům všech vnitrostranických předpisů s celostranickou působností před tím, než je RR projedná a případně schválí, a to ve lhůtě nejméně 30 dnů před navrženým projednáváním.
+   
+   d) ruší taková ustanovení vnitrostranických předpisů, která jsou v rozporu s předpisem vyšší právní síly, aniž je nahrazují novými ustanoveními.
 
 12. Finanční kontrolní komise
 
@@ -947,13 +956,13 @@ V případě snížení počtu zástupců konkrétní KO v RR z důvodu poklesu 
 
 7. Podrobná pravidla pro řádné hospodaření s majetkem SZ upravuje Hospodářský řád SZ. Hospodářský řád stanoví výši členských příspěvků a lhůtu pro jejich uhrazení, pevná pravidla pro příjmy jednotlivých organizačních jednotek a pro rozdělování členských příspěvků, příjmů ze státního příspěvku a náhrad za volební výsledek na jednotlivé organizační jednotky. Z vybraných členských příspěvků se ZO vrací zpět minimálně 50 % vybrané částky.
 
-8. Dar je možné darovat pouze SZ jako celku. Přijetí daru v hodnotě vyšší než 50.000 Kč schvaluje vždy Předsednictvo SZ. Zajistí-li si jednotlivá organizační jednotka dar, náleží jí vždy minimálně 75% z tohoto daru, zbytek náleží SZ jako celku.
+8. Dar je možné darovat pouze SZ jako celku. Přijetí daru v hodnotě vyšší než 50.000 Kč schvaluje vždy Předsednictvo SZ.
 
 ##ČLÁNEK 26 Vnitrostranické referendum
 
-1. O konkrétních politických otázkách lze vyhlásit vnitrostranické referendum. Hlasovací právo v něm mají všichni členové Strany zelených.
+1. O konkrétních politických otázkách lze vyhlásit vnitrostranické referendum (dále jen “referendum”). Hlasovací právo v něm mají všichni členové Strany zelených.
 
-2. Vnitrostranické referendum musí být provedeno na podnět:
+2. Referendum musí být provedeno, pokud návrh na jeho vyhlášení podpoří:
 
    a) alespoň 1/10 členů Strany zelených nebo
 
@@ -961,17 +970,19 @@ V případě snížení počtu zástupců konkrétní KO v RR z důvodu poklesu 
 
    c) alespoň 1/3 krajských organizací nebo
 
-   d) republikové rady nebo
+   d) republikova rada většinou svých členů
 
-   e) sjezdu.
+   e) sjezd.
 
-3. Součástí podnětu je vymezení předmětu vnitrostranického referenda a přesná formulace pokládané otázky.
+3. Referendum vyhlašuje PSZ na návrh orgánů uvedených v odst. 2 a v případě jeho nečinnosti osoba pověřená RR.
 
-4. Výsledek vnitrostranického referenda je platný jen tehdy, když se hlasování zúčastní nejméně polovina členů SZ. Otázky, při jejichž schvalování sjezdem je vyžadována jiná než nadpoloviční většina, musejí být schváleny i při vnitrostranickém referendu stejnou většinou. Schválení všech ostatních otázek vyžaduje prostou většinu. 
+4. Součástí návrhu na vyhlášení je i vymezení předmětu referenda a přesná formulace pokládané otázky.
 
-5. Předmět, o němž se rozhodlo ve vnitrostranickém referendu, se může stát předmětem dalšího vnitrostranického referenda nejdříve po uplynutí dvou let. Toto neplatí, dojde-li k podstatné změně poměrů, z nichž původní hlasování vycházelo. 
+5. Výsledek referenda je závazný pro všechny orgány a funkcionáře SZ, pokud bylo referendum jako závazné vyhlášeno a hlasování se zúčastnila většina členů SZ. Ve všech ostatních případech má výsledek referenda doporučující charakter.
 
-6. Všechna výše uvedená ustanovení se užijí přiměřeně pro vnitrostranické referendum krajské a městské. 
+6. Stejná nebo obdobná otázka může být předmětem referenda nejdříve po uplynutí dvou let. Toto neplatí, dojde-li k podstatné změně okolností, z nichž původní hlasování vycházelo. V případě nejasností o tom, zda došlo k podstatné změně okolností, rozhodne ÚRK.
+
+7. Podrobnosti průběhu referenda stanoví Řád vnitrostranického referenda.
 
 ##ČLÁNEK 27 Zánik strany
 
@@ -987,11 +998,11 @@ V případě snížení počtu zástupců konkrétní KO v RR z důvodu poklesu 
 
 4. Členství v orgánu zaniká nabytím členství v jiném orgánu, jež je s dříve nabytým neslučitelné.
 
-5. Všude, kde se ve stanovách mluví o členovi, kandidátovi, předsedovi, místopředsedovi, zastupiteli, poslanci, senátorovi a delegátovi, úprava platí také pro členku, kandidátku, předsedkyni, místopředsedkyni, zastupitelku, poslankyni, senátorku a delegátku.
+5. Všude, kde se ve stanovách mluví o členovi, kandidátovi, předsedovi, spolupředsedovi, místopředsedovi, zastupiteli, poslanci, senátorovi a delegátovi, úprava platí také pro členku, kandidátku, předsedkyni, spolupředsedkyni, místopředsedkyni, zastupitelku, poslankyni, senátorku a delegátku.
 
 6. Ve volených orgánech musí být v každé završené trojici nejméně jedna osoba opačného pohlaví. Toto pravidlo se vztahuje také na volby delegátů na KK a Sjezd. Pro volby do orgánů na místní (městské) úrovni si mohou příslušné stranické orgány stanovit, že se toto pravidlo neuplatní. Toto ustanovení blíže upravuje Volební řád SZ.
 
-7. Kolektivní orgány strany se řídí svými jednacími řády a mohou se usnášet za přítomnosti nadpoloviční většiny svých členů. Výjimku tvoří schůze ZO, která je usnášeníschopná půl hodiny po zahájení i za nepřítomnosti nadpoloviční většiny členů za předpokladu, že byla řádně svolána. V takovém případě však lze hlasovat pouze o bodech v rozesílaném programu výslovně uvedených. K přijetí usnesení je zapotřebí souhlasu nadpoloviční většiny přítomných, není-li ve stanovách či vnitřních předpisech stanoveno jinak. 
+7. Kolektivní orgány strany se mohou usnášet za přítomnosti nadpoloviční většiny svých členů; pro výpočet usnášeníschopnosti je rozhodující počet členů stanovený vnitřním předpisem nebo rozhodnutím příslušného orgánu. Výjimku tvoří schůze ZO a některé schůze městké a krajské konference, které jsou usnášeníschopné půl hodiny po zahájení i za nepřítomnosti nadpoloviční většiny členů a to za podmínek stanovených Jednacím řádem SZ. V takovém případě však lze hlasovat pouze o bodech v rozesílaném programu výslovně uvedených. K přijetí usnesení je zapotřebí souhlasu nadpoloviční většiny přítomných, není-li ve stanovách či jiných vnitřních předpisech stanoveno jinak.
 
 8. Jednání kolektivních orgánů všech stupňů svolává a řídí spolupředseda, předseda, resp. vedoucí příslušného orgánu, není-li uvedeno jinak. 
 
@@ -999,7 +1010,7 @@ V případě snížení počtu zástupců konkrétní KO v RR z důvodu poklesu 
 
 10. V době nepřítomnosti spolupředsedy resp. předsedy příslušného orgánu nebo v době, kdy nemůže vykonávat svoji funkci zejména ze zdravotních, pracovních či jiných závažných důvodů jej zastupují druhý ze spolupředsedů nebo místopředsedové, a to v pořadí určeném orgánem, který je zvolil.
 
-11. Plenární orgán s výjimkou členské schůze ZO vždy volí při volbě do funkcí výkonných a revizních orgánů a při volbě delegátů náhradníky v počtu, který si stanoví. 
+11. Plenární orgán může při volbě do funkcí výkonných a revizních orgánů a při volbě delegátů zvolit náhradníky v počtu, který si stanoví.
 
 12. Jednání každého orgánu se vždy účastní alespoň jeden člen revizního orgánu na příslušné úrovni nebo úrovni vyšší. 
 
@@ -1025,7 +1036,9 @@ V případě snížení počtu zástupců konkrétní KO v RR z důvodu poklesu 
 
    f) rozhodčí a smírčí řád,
 
-   g) revizní řád, jakož i další vnitřní předpisy.
+   g) revizní řád
+   
+   h) řád vnitrostranického referenda, jakož i další vnitřní předpisy.
 
 18. Na kandidátní listině je v první dvojici a v každé následující trojici jeden kandidát opačného pohlaví, aby bylo dosaženo toho, že na kandidátních listinách bude zastoupeno opačné pohlaví alespoň 1/3. V případě koaličních kandidátek se kvóta vztahuje pouze na kandidáty SZ. 
 
@@ -1062,23 +1075,29 @@ ZO     základní organizace
 
 ##ČLÁNEK 30 Přechodná a zmocňovací ustanovení
 
-1. Na řízení o uložení pořádkového opatření, zrušení organizační jednotky, přerušení a pozastavení členství apod., zahájená před účinností těchto stanov, se přiměřeně použije ustanovení těchto stanov.
+1. Po nabytí účinnosti změny stanov přijatých v Hradci Králové dne 22.1.2017 se osoby s přerušeným členstvím stávají příznivci SZ.
 
 2. PSZ se zmocňuje vydat k provedení těchto stanov a v jejich rámci vnitřní předpisy, jejichž schválení nepřísluší jiným orgánům.
 
-3. Všechny řády, kodexy a směrnice zůstávají v platnosti s výjimkou ustanovení, která jsou v rozporu s těmito stanovami.
+3. Zrušen
 
 4. Pokud se na jednání RR dostaví z příslušné KO vyšší počet zástupců, než pro danou KO připouští tyto stanovy, rozhodne mezi těmito zástupci mandátová komise RR losem.
 
-5. Členům, kteří nejsou ke dni přijetí těchto stanov přiřazeni k žádné ZO SZ dle evidence v Hlavní kanceláři SZ, začne běžet lhůta podle článku 7 odstavce 2, písm. b) dnem registrace těchto stanov na Ministerstvu vnitra ČR.
+5. Zrušen
 
-6. Lhůta dle ustanovení článku 13, odstavce 15, písmeno a) ve vztahu k povinnosti mít v každé ZO člena s trvalým bydlištěm v místě působnosti začne příslušným ZO běžet po uplynutí 6 měsíců ode dne registrace těchto stanov na Ministerstvu vnitra ČR.
+6. Zrušen
 
-7. Funkce FKK přebírá ÚRK do konání prvního zasedání RR po registraci nového znění stanov u Ministerstva vnitra ČR.
+7. Zrušen
 
-8. Část ustanovení článku 16 odst. 12 písm. a) ve znění " a to 2/3 většinou hlasů " nabývá účinnosti od 1. ledna 2014.
+8. Zrušen
 
-##ČLÁNEK 31 Platnost
+9. Změna článku 16, bod 2 nabývá účinnosti 1. února 2018.
 
-Tyto stanovy byly přijaty sjezdem SZ konaným v Táboře dne 27. září 2003. Stanovy SZ jsou ve znění změn, které přijaly sjezdy Strany zelených v Praze Vršovicích dne 11. prosince 2004, v Pardubicích dne 25. září 2005, v Brně dne 6. prosince 2009 a v Pardubicích dne 11. prosince 2011.
+##ČLÁNEK 31 Platnost a účinnost
+
+1. Tyto stanovy a jejich změny nabývají platnosti dnem skončení sjezdu, který tyto stanovy či změny schválil.
+
+2. Tyto stanovy a jejich změny nabývají účinnosti dnem registrace Ministerstvem vnitra ČR.
+
+3. Tyto stanovy byly přijaty sjezdem SZ konaným v Táboře dne 27. září 2003. Stanovy SZ jsou ve znění změn, které přijaly sjezdy Strany zelených v Praze Vršovicích dne 11. prosince 2004, v Pardubicích dne 25. září 2005, v Brně dne 6. prosince 2009 , v Pardubicích dne 11. prosince 2011 a Hradci Králové 22. ledna 2017.
 
