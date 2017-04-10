@@ -16,7 +16,9 @@ Majetek Strany zelených (SZ) tvoří věci movité a nemovité, pohledávky a j
 
 ##§ 3 Zdroje příjmů SZ 
 
-Zdrojem příjmů SZ, nezbytných pro plnění úkolů plynoucích ze stanov a politického programu, jsou příjmy podle zákona o sdružování v politických stranách a politických hnutích. Patří mezi ně zejména členské příspěvky, dary, příjmy z pronájmu, z kulturních a společenských akcí, půjčky a úvěry, příspěvky ze státního rozpočtu České republiky na úhradu volebních nákladů a na činnost a státní příspěvky za získané mandáty.
+1) Zdrojem příjmů SZ, nezbytných pro plnění úkolů plynoucích ze stanov a politického programu, jsou příjmy podle zákona o sdružování v politických stranách a politických hnutích. Patří mezi ně zejména členské příspěvky, dary, dědictví a bezúplatné plnění, příjmy z pronájmu, z kulturních a společenských akcí, úroky z vkladů a příspěvky ze státního rozpočtu České republiky na úhradu volebních nákladů a na činnost a státní příspěvky za získané mandáty.
+
+(2) Zápůjčky a úvěry je možné získat pouze od bank, platebních institucí nebo institucí elektronických peněz.
 
 ##§ 4 Členské příspěvky 
 
@@ -36,15 +38,18 @@ c) pokladníkovi HK. Člen stvrdí uhrazení členského příspěvku podpisem n
 
 (5) Z vybraných členských příspěvků náleží 50 % příslušné ZO, 25 % příslušné KO a 25 % SZ. Podíly členských příspěvků KO a ZO vypočítá a vyplatí HK nejpozději do 30. 6. příslušného kalendářního roku dané KO. KO vyplatí podíly ZO do 15 dnů od obdržení podílů z HK.
 
-##§ 5 Dary 
+##§ 5 Dary
 
-(1) SZ může přijímat dary. Pokladníci OJ nebo osoby pověřené PSZ mohou vybírat finanční prostředky a jiné hodnoty za účelem daru. Dar přesahující 50 000 Kč je přijat až okamžikem schválení PSZ, následně je uzavřena písemná darovací smlouva. Dar do 50 000 Kč včetně je přijat uzavřením darovací smlouvy nebo vystavením potvrzení o přijetí daru,  Pokud PSZ přijetí daru neschválí, nebo nebyla darovací smlouva uzavřena, musí být finanční prostředky, příp. jiné hodnoty vráceny.  Za SZ přijímá dary statutární zástupce strany nebo osoba pověřená plnou mocí. Dary se vybírají bezhotovostně, výjimečně v hotovosti do výše 5 000,- K
+(1) SZ může přijímat dary. Darem se rozumí finanční dar nebo jiné bezúplatné plnění, ocenitelné v penězích. Dary mohou přijímat pokladníci OJ nebo osoby pověřené PSZ. Za SZ jako celek přijímá dary statutární zástupce strany nebo osoba pověřená plnou mocí. Finanční dary se přijímají výhradně bezhotovostně na transparentní účet, který pro tento účel určí PSZ. V platebním příkazu pro provedení platební transakce ve prospěch nebo k tíži účtu určeného pro přijímání darů musí být vždy uveden účel platební transakce.
 
-(2) S přijetím daru v hodnotě přesahující  50 000 Kč vysloví souhlas před jeho přijetím PSZ. Za nepřípustné dary jsou považovány ty, které jsou poskytnuty v očekávání určitého hospodářského nebo politického prospěchu. Zákon o sdružování v politických stranách a politických hnutích stanovuje, že jsou nepřípustné dále dary od státu, příspěvkových organizací, obecně prospěšných společností, obcí a krajů s výjimkou pronájmu nebytových prostor, státních podniků a právnických osob s majetkovou účastí státu či obce nad 10 %. Také dary nelze přijímat od zahraničních právnických osob s výjimkou politických stran a nadací a dále od fyzických osob, které nejsou státními občany České republiky a nemají v ní trvalý pobyt. Přijaté dary musí být v souladu se směrnicí PSZ [Etický kodex pro přijímání darů.](http://www.zeleni.cz/eticky-kodex-prijimani-daru/).
+(2) Všechny dary vyšší než 1 000 Kč jsou přijaty uzavřením písemné darovací smlouvy. Dar přesahující 50 000 Kč je přijat až okamžikem schválení PSZ. Pokud PSZ přijetí daru neschválí nebo nebyla-li uzavřena písemná darovací smlouva u daru vyššího než 1 000 Kč, musí být finanční prostředky, příp. jiné hodnoty vráceny. Každý dar musí být identifikován dle požadavků zákona.
 
-(3) Přesahují-li dary svou celkovou hodnotu od jednoho dárce za rok částku 50 000 Kč, musí být uzavřena darovací smlouva.
+(3) Za nepřípustné dary jsou považovány ty, které jsou poskytnuty v očekávání určitého hospodářského nebo politického prospěchu, a také dary, které by byly v rozporu s příslušnými právními předpisy. Přijaté dary musí být v souladu se směrnicí PSZ Etický kodex pro přijímání darů.](http://www.zeleni.cz/eticky-kodex-prijimani-daru/).
 
-(4) Není-li určen účel daru nebo OJ, v jejíž prospěch je dar poskytnut, stává se takový dar příjmem běžného rozpočtu SZ jako celku.
+(4) Pokud PSZ přijetí daru neschválí, nebyla-li darovací smlouva uzavřena nebo nebyl-li dar poskytnut v souladu s platnými právními předpisy či Etickým kodexem pro přijímání darů, musí být finanční prostředky, příp. jiné hodnoty vráceny v souladu s
+platnými právními předpisy.
+
+(5) Není-li určen účel daru nebo OJ, v jejíž prospěch je dar poskytnut, stává se takový dar příjmem běžného rozpočtu SZ jako celku.
 
 ##§ 6 Rozdělování státních příspěvků získaných při volbách
 
@@ -130,6 +135,8 @@ f) Předseda FKK může rozhodnutí pozastavit a FKK potom musí rozhodnutí do 
 
 g) Proti výsledkům výběrového řízení je možno podat protest k ÚRK, tento krok však nemá odkladný účinek.
 
+(13) V hotovosti lze platit pouze výdaje do maximální výše 5 000 Kč.
+
 ##§ 11 Zásady hospodaření dalších organizačních jednotek
 
 (1) Za formální správnost hospodaření ZO, MO a KO odpovídají zvolení pokladníci.
@@ -140,7 +147,7 @@ g) Proti výsledkům výběrového řízení je možno podat protest k ÚRK, ten
 
 (4) Při ukončení činnosti organizační jednotky SZ má nárok užívat majetek jednotka o stupeň vyšší. O způsobu majetkového vypořádání se podává zpráva PSZ.
 
-(5) Pokladníci a další osoby oprávněné nakládat s finančními prostředky v pokladně a na bankovním účtu organizační jednotky, uzavřou se SZ smlouvu, v níž se zavážou k řádnému vyúčtování svěřených prostředků. Smlouva je uložena v HK. Před jejím uložením v HK nesmí nikdo s finančními prostředky v pokladně nebo na bankovním účtu nakládat.
+(5) Pokladníci a další osoby oprávněné nakládat s finančními prostředky v pokladně a na bankovním účtu organizační jednotky uzavřou se SZ smlouvu, v níž se zavážou k řádnému vyúčtování svěřených prostředků a dodržování Metodického pokynu - manuálu pokladníka.
 
 (6) Správnost vynaložení každého výdaje stvrzují na příslušném dokladu  dva podpisy – jednak plátce, jednak správce rozpočtu
 
@@ -249,4 +256,4 @@ EP - Evropský parlament
 *Schválila Republiková rada Strany zelených dne 15. ledna 2006.*
 *Dílčí změny schválila Republiková rada SZ dne 3. listopadu 2007 a  11. ledna 2009.*
 *Dílčí změny schválil Sjezd SZ dne 6. prosince 2009.*
-*Dílčí změny schválila Republiková rada SZ 9. ledna 2010, 7. listopadu 2015, 3. září 2016 a 11. prosince 2016.*
+*Dílčí změny schválila Republiková rada SZ 9. ledna 2010, 7. listopadu 2015, 3. září 2016, 11. prosince 2016 a 9. dubna 2017*
